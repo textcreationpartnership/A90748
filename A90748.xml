@@ -1,0 +1,1401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second part of the Garden of Eden. Or An accurate description of all flowers and fruits growing in England; with partuicular [sic] rules how to advance their nature and growth, as well in seeds and herbs, as the secret ordering of trees and plants. / By that learned and great observer, Sir Hugh Plat Knight. Never before printed.</title>
+            <title>Garden of Eden. Part 2</title>
+            <author>Plat, Hugh, Sir, 1552-1611?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 89 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90748</idno>
+            <idno type="STC">Wing P2392</idno>
+            <idno type="STC">Thomason E1804_2</idno>
+            <idno type="STC">ESTC R203175</idno>
+            <idno type="EEBO-CITATION">99863231</idno>
+            <idno type="PROQUEST">99863231</idno>
+            <idno type="VID">115421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115421)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 225:E1804[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second part of the Garden of Eden. Or An accurate description of all flowers and fruits growing in England; with partuicular [sic] rules how to advance their nature and growth, as well in seeds and herbs, as the secret ordering of trees and plants. / By that learned and great observer, Sir Hugh Plat Knight. Never before printed.</title>
+                  <title>Garden of Eden. Part 2</title>
+                  <author>Plat, Hugh, Sir, 1552-1611?</author>
+               </titleStmt>
+               <extent>[16], 159, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Leak, at the Crown in Fleetstreet betwixt the two Temple-gates.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660 [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes index.</note>
+                  <note>Annotation on Thomason copy: "nou: 1659"; the 0 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gardening --  England --  Early works to 1800.</term>
+               <term>Gardening --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115421:1" rendition="simple:additions"/>
+            <p>THE SECOND PART OF THE <hi>GARDEN</hi> of <hi>EDEN.</hi>
+            </p>
+            <p>OR An accurate Deſcription of all <hi>Flowers</hi> and <hi>Fruits</hi> growing in ENGLAND; WITH Partuicular Rules how to advance their <hi>Nature</hi> and <hi>Growth,</hi> as well in <hi>Seeds</hi> and <hi>Herbs,</hi> as the ſecret ordering of <hi>Trees</hi> and <hi>Plants.</hi>
+            </p>
+            <p>By that Learned and great Obſerver, Sir <hi>HUGH PLAT</hi> Knight.</p>
+            <p>Never before Printed.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>William Leak,</hi> at the Crown in Fleetſtreet betwixt the two Temple-Gates. 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115421:2"/>
+            <pb facs="tcp:115421:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T were very vain to com<g ref="char:EOLhyphen"/>mend the Firſt Part of the GARDEN OF EDEN which hath been ſo often welcomed into the world in ſo ſhort a time; for (without fooliſh Apologies, which are but officious lies) we can aſ<g ref="char:EOLhyphen"/>ſure you it hath had four Impreſſions in leſs than ſix years. The benefit it brings is as well known to the <hi>Country</hi> as to the <hi>London Stationer.</hi> Only let me
+<pb facs="tcp:115421:3"/>
+inform you, That a <hi>Second Part</hi> (never before Printed) full as large as the Firſt, is here preſented you; and (if poſſibly upon reading you could doubt its in<g ref="char:EOLhyphen"/>tegrity) you may at pleaſure ſee the original Manuſcript under the Authors own hand, which is too well known to undergo the ſuſpition of a counterfeit. Therefore if heretofore the Firſt Part of the GARDEN OF EDEN were a uſeful Book, this is now much more, when the GARDEN is en<g ref="char:EOLhyphen"/>larged, and far better ſtored. You will ſoon finde if truth be not now told you.</p>
+         </div>
+         <div type="index">
+            <pb facs="tcp:115421:3"/>
+            <head>AN Alphabetical TABLE TO THE BOOK.</head>
+            <list>
+               <item>
+                  <list>
+                     <item>
+                        <seg rend="decorInit">A</seg>Lmond trees to forward. <hi>p. 42</hi>
+                     </item>
+                     <item>Apples, Pears, Cherries, Grapes, to grow great. <hi>112</hi>
+                     </item>
+                     <item>Apples, Pears, Plums, Grapes <hi>&amp;c.</hi> how to make dry as they grow. <hi>page 151</hi>
+                     </item>
+                     <item>Apricocks to make proſper well. <hi>154</hi>
+                     </item>
+                     <item>Arbor an Artificial one. <hi>46</hi>
+                     </item>
+                     <item>Artificial Dogs, Lions, Foul, Fiſhes, <hi>&amp;c. 46</hi>
+                     </item>
+                     <item>Artichokes to grow great. <hi>53</hi>
+                     </item>
+                     <item>Artichokes a ſecond crop the ſame year. <hi>71</hi>
+                     </item>
+                     <item>Artichokes how to makes the leaves, ſtalks,
+<pb facs="tcp:115421:4"/>
+and roots good food for the table. <hi>113</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>B.</label>
+                  <list>
+                     <item>BEans ſteeped in oyl. <hi>21</hi>
+                     </item>
+                     <item>Beans and Peaſe cut down betimes. <hi>25</hi>
+                     </item>
+                     <item>Beans a ſecond crop the ſame year. <hi>48</hi>
+                     </item>
+                     <item>Beans and Peaſe ſalt will forward. <hi>72</hi>
+                     </item>
+                     <item>Beans and Peaſe forwarded. <hi>108</hi>
+                     </item>
+                     <item>Branches or arms of trees how to make them root. <hi>123</hi>
+                     </item>
+                     <item>Broom and Fern to deſtroy. <hi>109, 112</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>C.</label>
+                  <list>
+                     <item>CAnvas Tent for Dwarf-trees. <hi>5</hi>
+                     </item>
+                     <item>Canvas Walls. <hi>ibid.</hi>
+                     </item>
+                     <item>Carnations, Gilliflowers, Pinks, <hi>&amp;c.</hi> how to graff upon a root of Carnations. <hi>136</hi>
+                     </item>
+                     <item>Catterpillers how to deſtroy. <hi>151</hi>
+                     </item>
+                     <item>Cherryes kept backward by a Tent <hi>22</hi>
+                     </item>
+                     <item>Cherries early. <hi>52</hi>
+                     </item>
+                     <item>Cherry-trees, whether horn will forward. <hi>75</hi>
+                     </item>
+                     <item>Clay ground how to make fruitful. <hi>156</hi>
+                     </item>
+                     <item>Cions or young trees to make to grow full of
+<pb facs="tcp:115421:4"/>
+ſquares and loſanges. <hi>125</hi>
+                     </item>
+                     <item>Cions new graffed, the beſt manner of binding or cloſing. <hi>127</hi>
+                     </item>
+                     <item>Cions how to make the beſt choyce. <hi>119</hi>
+                     </item>
+                     <item>Colleflower hindered in the blowing. <hi>72</hi>
+                     </item>
+                     <item>Corn ground enriched with ſalt. <hi>78</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>D.</label>
+                  <list>
+                     <item>DWarf-trees more fortunate in bear<g ref="char:EOLhyphen"/>ing than others. <hi>6</hi>
+                     </item>
+                     <item>Dwarf-trees the maner how to water them. <hi>7</hi>
+                     </item>
+                     <item>Dwarf-trees tenderly kept, a caveat for. <hi>12</hi>
+                     </item>
+                     <item>Dwarf-trees, watering them in a Stove. <hi>13</hi>
+                     </item>
+                     <item>Dwarf-trees, pots for. <hi>31</hi>
+                     </item>
+                     <item>Dwarf-trees, tubs for. <hi>32</hi>
+                     </item>
+                     <item>Dwarf-trees or flowers to backward. <hi>36</hi>
+                     </item>
+                     <item>Dwarf-trees to preſerve fruit on <hi>73</hi>
+                     </item>
+                     <item>Dwarf-trees, the faſhion of your ſtove for. <hi>38</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>E.</label>
+                  <list>
+                     <item>EArth compounded for Parcely. <hi>20</hi>
+                     </item>
+                     <item>Earth compounded for Carnation <hi>22</hi>
+                     </item>
+                     <item>Earthen pans to place your pots in. <hi>35</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <pb facs="tcp:115421:5"/>
+                  <label>F.</label>
+                  <list>
+                     <item>FLowers and fruit to keep backward. <hi>51</hi>
+                     </item>
+                     <item>Flowers and herbs kept by covering them as they grow. <hi>24</hi>
+                     </item>
+                     <item>Flowers &amp; dwarf-trees, how they may be for<g ref="char:EOLhyphen"/>ced to grow in pots or wooden veſſels. <hi>89, 90</hi>
+                     </item>
+                     <item>Flowers to make double, as alſo to enlarge either fruit or flowers, and to make young trees proſper well. <hi>115</hi>
+                     </item>
+                     <item>Flowers kept from cleaving. <hi>89</hi>
+                     </item>
+                     <item>Froſts in <hi>May</hi> to prevent. <hi>4</hi>
+                     </item>
+                     <item>Fructifying waters for ſeeds. <hi>73</hi>
+                     </item>
+                     <item>Fruit early without the help of Brickwals. <hi>4</hi>
+                     </item>
+                     <item>Fruit &amp; flowers backwarded ſeveral ways. <hi>24</hi>
+                     </item>
+                     <item>Fruit kept backward. <hi>26</hi>
+                     </item>
+                     <item>Fruit forwarded by a tent. <hi>40</hi>
+                     </item>
+                     <item>Fruits, horn into gelly will forward. <hi>76</hi>
+                     </item>
+                     <item>Fruit when to gather. <hi>78</hi>
+                     </item>
+                     <item>Fruits late. <hi>74</hi>
+                     </item>
+                     <item>Fruit how to bring into any ſhape, or to grow in moulds. <hi>126</hi>
+                     </item>
+                     <item>Fruitfulneſs every ſecond year of Pears,
+<pb facs="tcp:115421:5"/>
+Apples, Plums, proved. <hi>88</hi>
+                     </item>
+                     <item>Fruit-trees how to dwarf, ſo as your Or<g ref="char:EOLhyphen"/>chard ſhall bear the firſt year. <hi>138</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>G.</label>
+                  <list>
+                     <item>GArden peaſe or French-beans, to grow without help of ſtick or poles. <hi>107</hi>
+                     </item>
+                     <item>Gilliflowers, Pinks, Strawberries to back<g ref="char:EOLhyphen"/>ward. <hi>128</hi>
+                     </item>
+                     <item>Gilliflower or Carnation root, how to en<g ref="char:EOLhyphen"/>creaſe the bearing exceedingly. <hi>137</hi>
+                     </item>
+                     <item>Graffing time in reſpect of Cion and ſtock. <hi>96</hi>
+                     </item>
+                     <item>Grapes nipping. <hi>15</hi>
+                     </item>
+                     <item>Grapes growing late and kept long. <hi>54</hi>
+                     </item>
+                     <item>Grapes, to have ſeveral growing upon one branch, and ſo alſo Roſes, Gilliflowers, <hi>&amp;c. 147</hi>
+                     </item>
+                     <item>Grapes, how to keep upon the Vine till <hi>Janu<g ref="char:EOLhyphen"/>ary,</hi> and ſo of other fruit and flowers to keep backward. <hi>149</hi>
+                     </item>
+                     <item>Grapes watering. <hi>157</hi>
+                     </item>
+                     <item>Ground prepared for dwarf-trees. <hi>6</hi>
+                     </item>
+                     <item>
+                        <pb facs="tcp:115421:6"/>Ground arched for dwarf-trees. <hi>23</hi>
+                     </item>
+                     <item>Ground enriched. <hi>157</hi>
+                     </item>
+                     <item>Gunpowder, Salt peter, and Salt to forward Plants. <hi>21</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>H.</label>
+                  <list>
+                     <item>HOw to ſow in the wain, or encreaſe of the Moon, the weather being unſea<g ref="char:EOLhyphen"/>ſonable. <hi>105</hi>
+                     </item>
+                     <item>Honeyſuckle, Jeſſamie double, how to mul<g ref="char:EOLhyphen"/>tiply <hi>142</hi>
+                     </item>
+                     <item>How to graff in a dead trunk, or ſtock of a willow-tree. <hi>144</hi>
+                     </item>
+                     <item>Hyſop and Time high borders ſpeedily. <hi>44</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>I</label>
+                  <list>
+                     <item>IMplaſtering, inoculating or graffing in the bud. <hi>98</hi>
+                     </item>
+                     <item>Iron backs to your pots. <hi>48</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>L.</label>
+                  <list>
+                     <item>LEmon-tree to bear fruit. <hi>3</hi>
+                     </item>
+                     <item>Lemon, Orange, Pomgranate-tree. <hi>74</hi>
+                     </item>
+                     <item>
+                        <pb facs="tcp:115421:6"/>Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, or proin, when. <hi>p. 75</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>M.</label>
+                  <list>
+                     <item>MOunt Pyramids. <hi>45</hi>
+                     </item>
+                     <item>Muſmellons, Cucumbers, Pompeons, Gooſeberries, how to have great and large. <hi>111</hi>
+                     </item>
+                     <item>Muſmellons and Pompeons, &amp;c. obſervati<g ref="char:EOLhyphen"/>ons in removing. <hi>135</hi>
+                     </item>
+                     <item>Muſmellon, Cucumber, Pompeon, the planting and ordering. <hi>79</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>N.</label>
+                  <list>
+                     <item>NIpping the firſt bloſſoms. <hi>41</hi>
+                     </item>
+                     <item>Nouriſhing liquor, rich mold. <hi>4</hi>
+                     </item>
+                     <item>Nouriſhing water. <hi>34</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>O.</label>
+                  <list>
+                     <item>OLive and Orange tree to bear fruit. <hi>3</hi>
+                     </item>
+                     <item>Onions young all the year. <hi>68</hi>
+                     </item>
+                     <item>Orange, Lemon, and Almond-trees for<g ref="char:EOLhyphen"/>warded. <hi>43</hi>
+                     </item>
+                     <item>Orchards, the bigneſs. <hi>8</hi>
+                     </item>
+                     <item>Orchards, the height of the walls. <hi>9</hi>
+                     </item>
+                     <item>Orchards ſpeedily to make. <hi>53</hi>
+                     </item>
+                     <item>
+                        <pb facs="tcp:115421:7"/>Orchards, to flouriſh and bear ſtore of fruit. <hi>p. 91</hi>
+                     </item>
+                     <item>Orchard or tree how to defend from the froſts of <hi>April</hi> or <hi>May,</hi> whereby the bloſ<g ref="char:EOLhyphen"/>ſoms may knit without danger. <hi>116</hi>
+                     </item>
+                     <item>Orchard how to have to bear ſpeedily. <hi>121</hi>
+                     </item>
+                     <item>Ordering pots. <hi>30</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>P.</label>
+                  <list>
+                     <item>PArſeley to grow ſpeedily. <hi>20</hi>
+                     </item>
+                     <item>Peach-tree to make to bring forth Pomgranats. <hi>146</hi>
+                     </item>
+                     <item>Peach-trees forwarded. <hi>76</hi>
+                     </item>
+                     <item>Peach-ſtone to have no kernel. <hi>146</hi>
+                     </item>
+                     <item>Peaſe and other ſeeds ſteeped in ſeveral li<g ref="char:EOLhyphen"/>quors before the ſowing. <hi>20</hi>
+                     </item>
+                     <item>Peaſe forwarded with horn. <hi>76</hi>
+                     </item>
+                     <item>Plants young, covered with a vail in the night. <hi>77</hi>
+                     </item>
+                     <item>Plums kept from cleaving. <hi>89</hi>
+                     </item>
+                     <item>Pomgranate tree to bear fruit. <hi>3</hi>
+                     </item>
+                     <item>Pompeons, Muſmellons, Strawberries, and Artichokes to make them proſper and
+<pb facs="tcp:115421:7"/>
+grow great. <hi>152</hi>
+                     </item>
+                     <item>Poſes and Emblems of Checker-work. <hi>45</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>R.</label>
+                  <list>
+                     <item>RAdiſhes young all the year. <hi>68</hi>
+                     </item>
+                     <item>Refreſhing pots with new mold. <hi>36</hi>
+                     </item>
+                     <item>Rich earth for pots. <hi>70</hi>
+                     </item>
+                     <item>Roots of young plants well watered, <hi>77</hi>
+                     </item>
+                     <item>Rooting of ſeeds within door before they be ſowed abroad, <hi>16</hi>
+                     </item>
+                     <item>Roſemary to make proſper exceedingly, <hi>155</hi>
+                     </item>
+                     <item>Roſes late. <hi>26</hi>
+                     </item>
+                     <item>Roſes early. <hi>51</hi>
+                     </item>
+                     <item>Roſes growing at <hi>Chriſtmas. 69</hi>
+                     </item>
+                     <item>Roſes a practice upon. <hi>75</hi>
+                     </item>
+                     <item>Roſe-trees, horn will forward. <hi>76</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>S.</label>
+                  <list>
+                     <item>SAge, to have great ſtore ſpeedily. <hi>147</hi>
+                     </item>
+                     <item>Salt and earth putrified together to for<g ref="char:EOLhyphen"/>ward plants. <hi>22</hi>
+                     </item>
+                     <item>Salt mold for your pots. <hi>35</hi>
+                     </item>
+                     <item>Seacoal-aſhes to kill worms and weeds. <hi>23</hi>
+                     </item>
+                     <item>Seed when to ſow in reſpect of the Moon. <hi>72</hi>
+                     </item>
+                     <item>
+                        <pb facs="tcp:115421:8"/>Seeds to grow the better, outlandiſh or Eng<g ref="char:EOLhyphen"/>liſh. <hi>129</hi>
+                     </item>
+                     <item>Several waters for plants. <hi>49</hi>
+                     </item>
+                     <item>Shavings of horn ſteeped in water for plants. <hi>75</hi>
+                     </item>
+                     <item>Sides of Borders in works. <hi>45</hi>
+                     </item>
+                     <item>Soil for outlandiſh plants. <hi>42</hi>
+                     </item>
+                     <item>Sope-aſhes uſed often to forward Peaſe, fruit, &amp;c. <hi>23</hi>
+                     </item>
+                     <item>Sow when, that you would have to ſeed. <hi>44</hi>
+                     </item>
+                     <item>Stockgilliflowers double or ſingle how to en<g ref="char:EOLhyphen"/>creaſe. <hi>148</hi>
+                     </item>
+                     <item>Stove to keep Dwarf-trees in. <hi>9</hi>
+                     </item>
+                     <item>Stove kept with ſmall charge. <hi>10</hi>
+                     </item>
+                     <item>Stove for all vegetables good cheap; <hi>17</hi>
+                     </item>
+                     <item>Strawberies to grow great. <hi>53</hi>
+                     </item>
+                     <item>Sun-beams on Trees how to multiply. <hi>2</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>T.</label>
+                  <list>
+                     <item>TRees againſt Brickwalls. <hi>1</hi>
+                     </item>
+                     <item>Trees wrapped about with hay. <hi>3</hi>
+                     </item>
+                     <item>Trees when to place in a ſtove. <hi>10</hi>
+                     </item>
+                     <item>Trees cropping. <hi>78</hi>
+                     </item>
+                     <item>
+                        <pb facs="tcp:115421:8"/>Trees and hedges kept backward by the ig<g ref="char:EOLhyphen"/>norance of the Planter. <hi>p. 124</hi>
+                     </item>
+                     <item>Trees when to proin them. <hi>77</hi>
+                     </item>
+                     <item>Trees to tranſplant, to know the juſt time. <hi>120</hi>
+                     </item>
+                     <item>Trees of Time, Hyſop, Lavender, Roſema<g ref="char:EOLhyphen"/>ry, &amp;c. how to have. <hi>148</hi>
+                     </item>
+                     <item>Trees to help, whoſe ſtock or fruit begin<g ref="char:EOLhyphen"/>eth to rot. <hi>146</hi>
+                     </item>
+                     <item>Trees to make flouriſh wonderfully. <hi>156</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>V.</label>
+                  <list>
+                     <item>VInes to bear early. <hi>14</hi>
+                     </item>
+                     <item>Vines cut to bear quickly. <hi>40</hi>
+                     </item>
+                     <item>Vine how to ſtay bleeding. <hi>110</hi>
+                     </item>
+                     <item>Vineyards hew to have, bear grapes the firſt year. <hi>142</hi>
+                     </item>
+                     <item>Violets or Strawberies covered with ſand or pots. <hi>27</hi>
+                     </item>
+                     <item>Voiding of froſts in <hi>May. 37</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>W.</label>
+                  <list>
+                     <item>WAlks of green trees in winter. <hi>47</hi>
+                     </item>
+                     <item>Watering by a Liſt. <hi>34</hi>
+                     </item>
+                     <item>
+                        <pb facs="tcp:115421:9"/>Weeds, Worms, Ruſhes, to deſtroy, &amp;c. a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> alſo to enrich ground. <hi>108</hi>
+                     </item>
+                     <item>Weeding of Woad ſaved. <hi>ibid.</hi>
+                     </item>
+                     <item>Wine, Aquavitae, Wine-Lees water with. <hi>21</hi>
+                     </item>
+                     <item>Wines good of Engliſh grapes. <hi>56</hi>
+                     </item>
+                     <item>Worms prevented. <hi>29</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115421:9"/>
+            <head>The Second Part OF THE Garden of EDEN. Divers conceited Expe<g ref="char:EOLhyphen"/>riments in Trees, Plants, Flowers, Herbs, and Fruits.</head>
+            <div type="part">
+               <head>Num. 1.</head>
+               <head type="sub">Fruit and Flowers to come ear<g ref="char:EOLhyphen"/>ly, and before others, or late and after others, or to have them growing all the year.</head>
+               <head type="sub">Sect. <hi>1.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">S</seg>IR <hi>Francis Wal<g ref="char:EOLhyphen"/>ſingham</hi> cauſed divers Apri<g ref="char:EOLhyphen"/>cock Trees to be planted a<g ref="char:EOLunhyphen"/>gainſt a ſouth Wall,<note place="margin">Planting of Trees againſt brick wals.</note> and their
+<pb n="2" facs="tcp:115421:10"/>
+Branches to be born up alſo againſt the wall according to the manner of Vines, where<g ref="char:EOLhyphen"/>by his Plumbs did ripen three or four weeks before any o<g ref="char:EOLhyphen"/>ther that grew at large in any Orchard, and had not the be<g ref="char:EOLhyphen"/>nefit of the Suns reflexion. Hereupon I do infer,<note place="margin">How to multiply the Sun-beams up<g ref="char:EOLhyphen"/>on Trees.</note> That if every Tree were planted in a ſeveral Tabernacle, or ſuch Concave as were apteſt for the receiving and reflecting of the Sun-beams upon the Fruit; and the ſame alſo ei<g ref="char:EOLhyphen"/>ther lined with Lead or Tin plates, or garniſhed with glaſ<g ref="char:EOLhyphen"/>ſes of ſteel or cryſtalline, that by ſuch means, peradventure, the reflexion might be mul<g ref="char:EOLhyphen"/>tiplied, to the greater for<g ref="char:EOLhyphen"/>warding of the Fruit, eſpeci<g ref="char:EOLhyphen"/>ally the Trees being Dwarf-trees,
+<pb n="3" facs="tcp:115421:10"/>
+whereby the Sun might reflect both from the ſides and from the ground, un<g ref="char:EOLhyphen"/>to the uppermoſt branch or bough of the Tree:<note place="margin">Olive, Pomgra<g ref="char:EOLhyphen"/>nate, O<g ref="char:EOLhyphen"/>range and Lemond trees to bear fruit.</note> And by theſe helps the Olive, Pom<g ref="char:EOLhyphen"/>granate, Orange and Lemond trees, and ſuch like, might happily bear their Fruit in our cold Clymate. <hi>Quaere,</hi>
+                  <note place="margin">Sol and Vulcan meeting together in the wals</note> if theſe walls did ſtand ſo con<g ref="char:EOLhyphen"/>veniently, as they might alſo be continually warmed with the Kitchen fires, as ſerving for Backs unto your Chim<g ref="char:EOLhyphen"/>neys, if ſo they ſhould not likewiſe finde ſome little fur<g ref="char:EOLhyphen"/>therance in their ripening.</p>
+               <p n="2">2. <hi>Quaere</hi> alſo,<note place="margin">Trees wrapped a<g ref="char:EOLhyphen"/>bout with Hay.</note> If wrap<g ref="char:EOLhyphen"/>ping of ropes of Hay about the bodies of the Trees to de<g ref="char:EOLhyphen"/>fend them from the windes, and other cold that happen<g ref="char:EOLhyphen"/>eth
+<pb n="4" facs="tcp:115421:11"/>
+moſt in the night ſea<g ref="char:EOLhyphen"/>ſon.</p>
+               <p n="3">
+                  <note place="margin">Nouriſh<g ref="char:EOLhyphen"/>ing Li<g ref="char:EOLhyphen"/>quor, rich Mould.</note>3. Water theſe Trees with nouriſhing and feeding Li<g ref="char:EOLhyphen"/>quors, and give a new ſupply now and then of richer Mould unto them; and if you will prevent the dangers of the froſt, which they are ſubject unto in their bloſſom;<note place="margin">To pre<g ref="char:EOLhyphen"/>vent the fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſts in May.</note> then lay open the roots for a time, that the ſap may not riſe too faſt; or if your Orchard con<g ref="char:EOLhyphen"/>ſiſt of Dwarf-trees, growing in great pots of ſtone, or veſ<g ref="char:EOLhyphen"/>ſels of wood, you may re<g ref="char:EOLhyphen"/>move them from time to time as you ſee cauſe, and ſo pre<g ref="char:EOLhyphen"/>ſerve them from all injury of the weather.</p>
+               <p n="4">
+                  <note place="margin">Early fruit with<g ref="char:EOLhyphen"/>out the help of Brick wals.</note>4. And leſt I ſhould leave all other men deſtitute of early Fruit, whoſe ability will
+<pb n="5" facs="tcp:115421:11"/>
+not ſerve to compaſs their Orchards with Brick-walls (which would prove an exceſ<g ref="char:EOLhyphen"/>ſive charge) my advice is, that their Orchard ſhould con<g ref="char:EOLhyphen"/>ſiſt wholly of Dwarf trees, o<g ref="char:EOLunhyphen"/>ver which, being cloſe com<g ref="char:EOLhyphen"/>pact together, they may ſpread a canvas tent remove<g ref="char:EOLhyphen"/>able at pleaſure,<note place="margin">Canvas tent.</note> or defend<g ref="char:EOLhyphen"/>ing onely the North, Eaſt, and Northeaſt winds from them with canvas walls;<note place="margin">Canvas Walls.</note> which can<g ref="char:EOLhyphen"/>vas they may hire of the Up<g ref="char:EOLhyphen"/>holſters after the rate of one penny the ell for many moneths together; for not<g ref="char:EOLhyphen"/>withſtanding this imployment it ſerveth the Painters turn ſufficiently. Neither ought this courſe ſeem very charge<g ref="char:EOLhyphen"/>able unto us, if we do either conſider the infinite number
+<pb n="6" facs="tcp:115421:12"/>
+of Trees that a ſmall ſquare will receive, if they be cloſely packed together; or if we do eſtimate the profit that will ariſe of ſuch forward fruit, which will eaſily countervail the hire of our canvas. And yet for our better encourage<g ref="char:EOLhyphen"/>ment herein, I have heard that alſo noted of our beſt experienced Practiſers this way,<note place="margin">Dwarf trees more fortunate <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen o<g ref="char:EOLhyphen"/>thers.</note> That theſe kinde of Dwarf-trees are commonly more fortunate in their bear<g ref="char:EOLhyphen"/>ing, then our ordinary trees, whoſe bodies are greater, and carry their heads ſo high into the weather; and it ſhall not be amiſs, notwith<g ref="char:EOLhyphen"/>ſtanding theſe walls or co<g ref="char:EOLhyphen"/>vers,<note place="margin">Preparing of the ground for Dwarf-trees.</note> to place theſe Dwarf-trees (eſpecially if they grow in veſſels removeable) either
+<pb n="5" facs="tcp:115421:12"/>
+upon Pavement of Free-ſtone or Brick, or upon a plat<g ref="char:EOLhyphen"/>form of Gravel, whereby the Sun may reflect the ſtronger upon them, always provided that you have alſo care to keep them ſufficiently moiſt, and from being withered or parched with the heat,<note place="margin">The man<g ref="char:EOLhyphen"/>ner how to water them.</note> (which you may eaſily prevent in the time of dry weather) by watering them continually by way of filtration out of apt veſſels placed for the purpoſe. And though your trees be fixed and growing in the ground, yet it ſhall not be amiſs to have a flore of hard gravel round about them to help the reflexion of the Sun, ſo as you have care either to leave ſufficient ſtore of earth about the body of every
+<pb n="8" facs="tcp:115421:13"/>
+Tree, and the ſame earth to be laid in the forme of a con<g ref="char:EOLhyphen"/>cave receptive to receive ſuch rain water as falleth, and to convey that unto the root; or elſe if you will cover the whole face of the ground with gravel, you muſt then at the foot of every tree thruſt in a pipe of ſtone (for which pur<g ref="char:EOLhyphen"/>poſe, and to avoid charge, the neck of theſe ſtone bodies wherein the Goldfiners do uſe to draw their ſtrong water, will ſerve very aptly) which muſt receive a continual wa<g ref="char:EOLhyphen"/>tering <hi>per laneam linguam,</hi> as before,<note place="margin">The big<g ref="char:EOLhyphen"/>neſs of theſe Or<g ref="char:EOLhyphen"/>chards.</note> to keep them moiſt: And here (if it were not for charge) I could wiſh all theſe Orchards that are repleniſhed with Dwarf-trees, to conſiſt of ſmall ſquares, ſo as they
+<pb n="9" facs="tcp:115421:13"/>
+might be ten or twelve yards every way in length and breadth, and no more;<note place="margin">The hight of the wals of this Or<g ref="char:EOLhyphen"/>chard.</note> about which ſquares I would alſo e<g ref="char:EOLhyphen"/>rect the cheapeſt wall that could be deviſed, which ſhould not exceed three or four foot in height; the uſe whereof is ſo manifeſt, as that I ſhall not need to publiſh the ſame in any plainer terms.<note place="margin">A Stove to keep dwarf trees in.</note> But if to have early Fruit, we do nei<g ref="char:EOLhyphen"/>ther regard labor nor charge, then let us build a ſquare and cloſe room, having many de<g ref="char:EOLhyphen"/>grees of ſhelves, one above another, in which we may aptly place ſo many of theſe Dwarf-trees as we ſhall think good; in time of cold wea<g ref="char:EOLhyphen"/>ther, we may keep the ſame warm in nature of a Stove, with a ſmall fire being made
+<pb n="10" facs="tcp:115421:14"/>
+in ſuch Furnaces, and in ſuch manner as I will at all times be ready to ſhew to ſuch as are willing to make any uſe there<g ref="char:EOLhyphen"/>of; and if the weather be fair and open, and that the room be made full of windows or open ſides, we may for ſuch time uſe the benefit of the Sun-ſhine, or carry them a<g ref="char:EOLhyphen"/>broad at our pleaſure; and for the forwarding of your Fruits,<note place="margin">When to place the Trees in a Stove.</note> you ſhall not need to begin this practice till the ſap begin to riſe, and then but for a few moneths onely, except in the night time, when we ſhall fear any froſty or other nip<g ref="char:EOLhyphen"/>ping weather.<note place="margin">A Stove kept with ſmall charge.</note> There be di<g ref="char:EOLhyphen"/>vers perſons whom this ſecret doth fit very well, and may perform the ſame without ex<g ref="char:EOLhyphen"/>pence of money, amongſt
+<pb n="11" facs="tcp:115421:14"/>
+which number are all ſuch as are forced in reſpect of their trade to keep any great or con<g ref="char:EOLhyphen"/>tinual fires, as Brewers, Diers, Soap-boilers, Refiners of Su<g ref="char:EOLhyphen"/>gar, and the owners of Glaſs-houſes, and ſuch like, who may eaſily convey the heat or ſteam of their fires (which is now utterly loſt) into ſome private room adjoyning, wherin they may beſtow their Fruit trees to their greater pleaſure &amp; contentment.<note place="margin">Winter Parlors made Or<g ref="char:EOLhyphen"/>chards.</note> Nei<g ref="char:EOLhyphen"/>ther do I think it an unſeem<g ref="char:EOLhyphen"/>ly ſight to have ſome dozen or twenty of theſe Dwarf-trees ranked in good order upon high ſhelves in our win<g ref="char:EOLhyphen"/>ter-Parlors, where we may alſo make a ſecond uſe of our chargeable fires. Yet this caveat let me give by the
+<pb n="12" facs="tcp:115421:15"/>
+way (which I learned by the experience of my friend who in one froſty night,<note place="margin">A caveat for dwarf trees that have been tenderly kept.</note> by the negligence of his Servant, loſt 20 of the faireſt Carnation Pots that I have ſeen, being all of them very full of Buds, and many of them blown out in the dead of winter, and all this happened by leaving them onely one froſty night abroad) that when we have made our Dwarf-trees thus tender, by defending them from all cold and hard wea<g ref="char:EOLhyphen"/>ther, by a cloſe and warm Stove, that we muſt be very careful, that if (to take the advantage of a ſhowre of rain, or ſome other fair and ſunny weather, we happen to carry them abroad) that about the Sun-ſet, or rather ſomewhat
+<pb n="13" facs="tcp:115421:15"/>
+before, we convey them again to their place of refuge, and ſome think it neceſſary to ex<g ref="char:EOLhyphen"/>poſe them to the air only in rainy and temperate days, and rather to loſe the rain, then to ſet them abroad in a cold day. I hope I ſhall not here need to give any advice for the ne<g ref="char:EOLhyphen"/>ceſſary watring of theſe Trees in their convenient time,<note place="margin">Watering the dwarf trees in the Stove.</note> be<g ref="char:EOLhyphen"/>cauſe there is no man ſo igno<g ref="char:EOLhyphen"/>rant, but that he knoweth that all Vegetables do receive both their life and nouriſhment from heat and moiſture; onely they may make their choice (if they pleaſe) of theſe ſeve<g ref="char:EOLhyphen"/>ral manners, and likewiſe of ſome of theſe compound li<g ref="char:EOLhyphen"/>quors as are elſewhere in this Diſcourſe handled more at large, whereby to water them
+<pb n="14" facs="tcp:115421:16"/>
+in a more fructifying manner then any of our ordinary means doth afford, ſet your pots in pans of water that hath been before expoſed to the Sun.</p>
+               <p n="5">
+                  <note place="margin">Vines to bear early.</note>5. The blood of beaſts tempered with ſome lime and earth (for without lime the blood engendreth great ſtore of worms) is moſt excellent to lay at the roots of Vines to haſten the ripening of the Grapes:<note place="margin">Several earths or moulds.</note> 
+                  <hi>Quaere,</hi> if the ſame be not good for all other Trees and Plants to that end. I have alſo both heard and read of Pigeons dung greatly com<g ref="char:EOLhyphen"/>mended for the forwarding of Fruit-trees. <hi>Quaere,</hi> the aſhes of Beans ſtalks or Vines, or of ſalt alone, or ſalt and earth firſt putrified together,
+<pb n="15" facs="tcp:115421:16"/>
+of Sope-aſhes, &amp; all thoſe ſun<g ref="char:EOLhyphen"/>dry ſorts of Soyl more plen<g ref="char:EOLhyphen"/>tifully diſplayed in my Diſ<g ref="char:EOLhyphen"/>courſe upon the vegetable Salt, if any of theſe being applied in due proportion, and in the true ſeaſon of the year, will not afford ſome expediti<g ref="char:EOLhyphen"/>on in this work, and how of<g ref="char:EOLhyphen"/>ten it ſhall be neceſſary to change and renew your ſoil in one year, if you mean to have the firſt Fruit, and be<g ref="char:EOLhyphen"/>fore all other. <hi>Quaere,</hi>
+                  <note place="margin">Lime.</note> of Lime, and of ſuch earth as is found in hollow Willow trees, and of Fearn firſt pu<g ref="char:EOLhyphen"/>trified.</p>
+               <p n="6">6.<note place="margin">Nipping off Grapes.</note> When the Grapes are knit, you muſt nip off the new ſprigs from time to time as they put forth, and there<g ref="char:EOLhyphen"/>by (as ſome think) your Grapes
+<pb n="16" facs="tcp:115421:17"/>
+will both grow the greater, and ripen the ſooner.</p>
+               <p n="7">
+                  <note place="margin">Rooting of ſeeds within doors be<g ref="char:EOLhyphen"/>fore they be ſowed abroad.</note>7 Mr. <hi>Googe</hi> in his book of Husbandry commendeth the mingling of ſtones with earth, and ſo laid up together in a veſſel one year before you plant them, and by this means you may have ſtore of Sets very ſpeedily to make Hedges withal, by planting them in a inner Garden, as he termeth it, <hi>Quaere,</hi> if Peaſe, Beans, Pompeons, Musk-Mellons, and all other Pulſe and Seeds which we would have to come early, were uſed in this manner for a ſeaſon, in ſome ſmall pots, or other veſſels, and filled with rich mould, and water<g ref="char:EOLhyphen"/>ed with the Liquors <hi>ante num.</hi> 3. being firſt made blood
+<pb n="17" facs="tcp:115421:17"/>
+warm, and the ſame pots and veſſels alſo placed in a gentle Stove or ſome other conveni<g ref="char:EOLhyphen"/>ent place aptly warmed with the fire, and after in <hi>March</hi> if it prove warm, or elſe in the beginning of <hi>April,</hi> if the ſame were ſowen, if ſo they would not be much forward<g ref="char:EOLhyphen"/>ed.</p>
+               <p n="8">8.<note place="margin">A Stove for all Ve<g ref="char:EOLhyphen"/>getables good cheap.</note> And for the keeping of any Flowers or Plants abroad, as alſo of theſe ſeeds thus ſow<g ref="char:EOLhyphen"/>en within doors, or any o<g ref="char:EOLhyphen"/>ther Pots of Flowers, or Dwarf-trees in a temperate heat, with ſmall charge, you may perform the ſame by hanging a cover of Tin or other mettall over the veſſel wherein you boil your Beef, or drive your Buck, which having a pipe in the top, and
+<pb n="18" facs="tcp:115421:18"/>
+being made in the faſhion of a funnel, may be conveyed in<g ref="char:EOLhyphen"/>to what place of your Or<g ref="char:EOLhyphen"/>chard or Garden you ſhall think meet; which room, if it were ſo made, as that at your pleaſure it may become either cloſe or open, you may keep it in the nature of a Stove in the night ſeaſon, or in any other cold weather, and in the Summer time you may uſe the benefit of the Sun-beams, to comfort and cher<g ref="char:EOLhyphen"/>riſh your Plants or Seeds. And this way, if I be not deceived, you may have both Orange, Lemons, Pomgra<g ref="char:EOLhyphen"/>net trees, yea peradven<g ref="char:EOLhyphen"/>ture Coloqnintida, and Pep<g ref="char:EOLhyphen"/>per trees, and ſuch like: The ſides of this room, if you think good, may be plaiſter<g ref="char:EOLhyphen"/>ed,
+<pb n="19" facs="tcp:115421:18"/>
+and the top thereof may be covered with ſome ſtrein<g ref="char:EOLhyphen"/>ed Canvas to take away at your pleaſure. <hi>Quaere,</hi> if it be beſt to let the pipe of lead to breath out at the end onely, or elſe at divers ſmall vents which may be made in that part of the pipe which paſ<g ref="char:EOLhyphen"/>ſeth alongſt the Stove. I fear that this is but a meer conceit, becauſe the ſteam of water will not extend far; but if the cover to your pot be of mettal, and made ſo cloſe that no air can breath out ſa<g ref="char:EOLhyphen"/>ving at the pipe, which is ſo<g ref="char:EOLhyphen"/>dred or well cloſed in ſome part of the cover, then it ſeem<g ref="char:EOLhyphen"/>eth probable, this cover may be put on after the pot is ſcum<g ref="char:EOLhyphen"/>med.</p>
+               <p n="9">9. Mr. <hi>Googe</hi> citeth an opi<g ref="char:EOLhyphen"/>nion
+<pb n="20" facs="tcp:115421:19"/>
+of ſome men that hold,<note place="margin">Peaſe and other ſeeds ſteeped in ſeveral li<g ref="char:EOLhyphen"/>quors be<g ref="char:EOLhyphen"/>fore the ſowing.</note> that Peaſe being laid in water a day or two before they be ſown, will grow the ſooner. <hi>Quaere</hi> of Milk, Spirit of wine, or water that hath been long infuſed upon dung, or waſte ſoape aſhes, or common aſhes, whoſe heart and ſalt hath not been drawn out before; <hi>quaere</hi> alſo, whether the wa<g ref="char:EOLhyphen"/>ters aforeſaid being cold, or blood-warm do ſerve beſt for this purpoſe; <hi>quaere</hi> of ſteep<g ref="char:EOLhyphen"/>ing them in Sack or Malmſey, White wine, <hi>aqua compoſita,</hi> &amp;c.</p>
+               <p n="10">
+                  <note place="margin">Parſley to grow ſpee<g ref="char:EOLhyphen"/>dily.</note>10. I have been credibly informed, that if you make a lay of powdred lime and aſhes,<note place="margin">Compound earth.</note> and then a lay of earth and dung, and then a lay of lime, and upon that a lay of
+<pb n="21" facs="tcp:115421:19"/>
+good fat mould, and do there<g ref="char:EOLhyphen"/>in ſow your Parſely ſeeds be<g ref="char:EOLhyphen"/>ing firſt ſteeped in white wine,<note place="margin">Wine, A<g ref="char:EOLhyphen"/>qua vi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae, Wine lees, water with</note> and then water them preſent<g ref="char:EOLhyphen"/>ly, that ſo the heat of the lime and dung will force up a won<g ref="char:EOLhyphen"/>derful and ſudden ſpring in a few hours: <hi>Quaere,</hi> if there be any good uſe of this ſecret though it ſhould be true; <hi>quaere</hi> alſo of watering the ſaid ſeeds with <hi>Aqua vitae,</hi> or wine Lees. <hi>Fabam referunt novem diebus obrutam oleo,</hi>
+                  <note place="margin">Beans ſtee<g ref="char:EOLhyphen"/>ped in oyl.</note> 
+                  <hi>germinare in du<g ref="char:EOLhyphen"/>abus horis impoſitam pani cali<g ref="char:EOLhyphen"/>do.</hi> Cardan. de rer. varietate, 878.</p>
+               <p n="11">11.<note place="margin">Gunpow<g ref="char:EOLhyphen"/>der, Salt<g ref="char:EOLhyphen"/>peter, and ſalt.</note> Some commend the applying of Gun-powder to the roots of Plants to for<g ref="char:EOLhyphen"/>ward them; <hi>quaere</hi> of Salt<g ref="char:EOLhyphen"/>peter, and <hi>quaere</hi> of the Salt that the Petermen derive
+<pb n="22" facs="tcp:115421:20"/>
+from the Salpeter; <hi>quaere</hi> of the aſhes of every Plant be<g ref="char:EOLhyphen"/>ſtowed upon it ſelf.<note place="margin">Aſhes.</note>
+               </p>
+               <p n="12">
+                  <note place="margin">Compound earth.</note>12. Take one part of Soot and one part Cowdung, and two parts earth; plant the Slips of your Carnations therein after they are well rooted. <hi>Quaere</hi> of Roſes and other plants.</p>
+               <p n="13">
+                  <note place="margin">Cherries kept back<g ref="char:EOLhyphen"/>ward by a tent.</note>13. Sir <hi>Francis Carew,</hi> as I have heard, did ſpread a tent over a Cherry-tree that was well taken, and before they were grown to any great big<g ref="char:EOLhyphen"/>neſs, and thereby defended them from ripening; now and then alſo ſprinkling wa<g ref="char:EOLhyphen"/>ter upon the Tent.</p>
+               <p n="14">
+                  <note place="margin">Salt and earth pu<g ref="char:EOLhyphen"/>trified to<g ref="char:EOLhyphen"/>gether.</note>14. <hi>Quaere</hi> of putrifying of ſalt and earth together in ſome apt place, before you apply the ſame to the
+<pb n="23" facs="tcp:115421:20"/>
+roots of your Fruit trees, or Flowers, whether the ſame will not help your Plants for<g ref="char:EOLhyphen"/>ward?</p>
+               <p n="15">15.<note place="margin">Sope aſhes uſed often to forward Peaſe; Fruit, <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>Quaere</hi> of ſtrowing Sope-aſhes at ſeveral times upon Peaſe, or at the roots of other Fruits or Flowers before they be ripe, what ef<g ref="char:EOLhyphen"/>fects will follow; and ſo of ſalt, lime, and all other kindes of enriching ſoil. Theſe aſhes are reported to kill worms,<note place="margin">Seacoal aſhes.</note> weeds and ruſhes where they are beſtrewed. <hi>Quaere</hi> of the uſe of Sea-coal-aſhes.</p>
+               <p n="16">16.<note place="margin">Arching the ground</note> 
+                  <hi>Quaere</hi> of arching of a ſmall Orchard for Dwarf-trees, and fire placed under the arches in cold weather; <hi>quaere</hi> alſo of planting of great ſtore of pieces of glaſs upon
+<pb n="24" facs="tcp:115421:21"/>
+the whole face of the ground to procure a ſtronger reflexi<g ref="char:EOLhyphen"/>on.<note place="margin">Glaſſes upon the ground.</note>
+               </p>
+               <p n="17">
+                  <note place="margin">Herbs and flowers kept by co<g ref="char:EOLhyphen"/>vering them as they grow.</note>17. There were divers dain<g ref="char:EOLhyphen"/>ty freſh ſallat herbs preſented at Chriſtmas, to Sir <hi>Cutbert Bucks</hi> Lord Mayor of <hi>London</hi> by an <hi>Italian,</hi> which he had onely covered in the earth as they grew. <hi>Quaere</hi> if it be not better to cover them over with ſand than with earth, to defend them from putrefacti<g ref="char:EOLhyphen"/>on; <hi>quaere</hi> how many ſorts of Herbs and Flowers may be kept this way. <hi>Plus num.</hi> 19.</p>
+               <p n="18">
+                  <note place="margin">Backward<g ref="char:EOLunhyphen"/>ing of Fruits and Flowers ſe<g ref="char:EOLhyphen"/>veral ways.</note>18. Cut Roſes in the end of <hi>April; (quaere</hi> if the bud onely, or the buds and other ſhoots muſt be cut off) when they are full of young buds, and the branches will bud a<g ref="char:EOLhyphen"/>gain
+<pb n="25" facs="tcp:115421:21"/>
+when all other Roſes have done blowing; this I did ſee experimented in <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> in <hi>July</hi> 1585. Cut Ro<g ref="char:EOLhyphen"/>ſes monethly one under an<g ref="char:EOLhyphen"/>other, and ſee what effects will follow. I have proved the cutting off of ſuch Gilli-flowers ſtalks as began to ſpindle, and by that means they put forth their buds much later; <hi>quaere</hi> in what other Fruits or Flowers this practice may be uſed; <hi>quaere</hi> alſo, if Flowers or other Dwarf-trees may not be hin<g ref="char:EOLhyphen"/>dred from bearing their fruit early, by keeping ſuch pots in ſhady places, or keeping them within doors for a time, until you would have them to come forward;<note place="margin">Beans and Peaſe cut down be<g ref="char:EOLhyphen"/>times.</note> 
+                  <hi>quaere</hi> of Beans and Peaſe cut down in
+<pb n="26" facs="tcp:115421:22"/>
+                  <hi>April</hi> or <hi>May;</hi>
+                  <note place="margin">Fruit kept backward.</note> 
+                  <hi>quaere</hi> of twiſt<g ref="char:EOLhyphen"/>ing the branch of any Tree or Flower, and binding the ſame ſo twiſted to a ſtick; <hi>quaere</hi> of binding a band ſtreight about the branch of any Tree or Flower, or wind<g ref="char:EOLhyphen"/>ing of Packthread many folds about the ſame. And <hi>quaere</hi> how long ſuch fruit or flowers will hang upon their branches being thus uſed. Alſo when you have wreathed a branch of a Cherry-tree, or Plum-tree with your hand ſome<g ref="char:EOLhyphen"/>what hard, then ſtay it there with two ſplents, <hi>&amp; vide quid fiet.</hi> Alſo prove how little of the bark will ſerve a branch to convey the ſap up to the fruit, and take away all the reſt with a knife.<note place="margin">Late Roſes</note> Roſes have been tried to come late by
+<pb n="27" facs="tcp:115421:22"/>
+binding the bark hard of the branches whereon they grow.</p>
+               <p n="19">19.<note place="margin">Covering of Violets or Straw<g ref="char:EOLhyphen"/>berries with ſand or pots.</note> 
+                  <hi>Quaere</hi> of covering o<g ref="char:EOLhyphen"/>ver the Violets that come a<g ref="char:EOLhyphen"/>bout <hi>Michaelmas</hi> with ſand, <hi>ſicut ante num.</hi> 17. and ſo of Strawberries that blow in cold weather; but this covering for Flowers, I think, would be done by whelming of apt earthen pots upon them, which pots may alſo be cover<g ref="char:EOLhyphen"/>ed over with earth or ſand if you ſee cauſe, for that other<g ref="char:EOLhyphen"/>wiſe you ſhall deface the Flowers. <hi>Quaere</hi> of Artichoke roots covered ſo all the win<g ref="char:EOLhyphen"/>ter to make them more for<g ref="char:EOLhyphen"/>ward in the Spring, and ſo of the like profitable Plants; <hi>quaere</hi> if it be not neceſſary to have earthen covers or caps to
+<pb n="28" facs="tcp:115421:23"/>
+fit theſe pots, which you may take off at your pleaſure in warm and rainy, or in ſunny weather, and after cloſe them up and cover them again, as before. You may alſo cover each Dwarf-tree either grow<g ref="char:EOLhyphen"/>ing in a pot or ſtanding in the earth with a ſeveral cap made of wood according to the big<g ref="char:EOLhyphen"/>neſs or ſpreading of the bran<g ref="char:EOLhyphen"/>ches, by which means you may either keep the fruit long upon the tree, or after they are bloſſomed in the ſpring time, defend them from the froſts in <hi>May,</hi> and ſo you ſhall have many times fruits when o<g ref="char:EOLhyphen"/>ther men ſhall fail and want them.</p>
+               <p n="20">
+                  <note place="margin">Pots divi<g ref="char:EOLhyphen"/>ded in halves for Flowers.</note>20. For the forwarding of all the ſeeds of Pompeons, Musk-Mellons, Cucumber
+<pb n="29" facs="tcp:115421:23"/>
+ſeeds, Artichoke ſeeds, <hi>&amp;c.</hi> you may procure divers ear<g ref="char:EOLhyphen"/>then pots of a reaſonable big<g ref="char:EOLhyphen"/>neſs and wel gl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zed within to be made either of the faſhion of Gillifl wer pots, or round, upright and of an equal big<g ref="char:EOLhyphen"/>neſs,<note place="margin">Pots with<g ref="char:EOLhyphen"/>out bot<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ms and ſteeple<g ref="char:EOLhyphen"/>wiſe.</note> but let them be made either without bottoms in the faſhion of a ſteeple or elſe part<g ref="char:EOLhyphen"/>ed into two equal halves, from the uppermoſt edge even to the centre of the bottom, in the midſt of which bottom there may be a hole made of a convenient largeneſs;<note place="margin">Prevention of worms.</note> upon which (leſt any worm ſhould enter) lay a thin flat piece of lead ful of ſmal holes, through which the water may paſs; let the ſides of theſe pots meet ſo cloſe as that thereby alſo no worm may enter to
+<pb n="30" facs="tcp:115421:24"/>
+bite or gnaw the Seeds;<note place="margin">Ordering theſe pots.</note> theſe pots you may ſet abroad in warm and ſunny weather, or when there falleth any tempe<g ref="char:EOLhyphen"/>rate rain; and at all other times you may either keep them within doors, or place them in your warm Balneo, <hi>ante num.</hi> 8. and by this means, as I gueſs, you may have ve<g ref="char:EOLhyphen"/>ry early and forward Plants, from the which having arti<g ref="char:EOLhyphen"/>ficially and workmanly taken the looſe ſides without looſen<g ref="char:EOLhyphen"/>ing the earth from the roots, you may place the Plants with the earth about them, in con<g ref="char:EOLhyphen"/>venient holes made before<g ref="char:EOLhyphen"/>hand for that purpoſe; or if you ſet theſe divided pots in<g ref="char:EOLhyphen"/>to the earth at the firſt plant<g ref="char:EOLhyphen"/>ing of your ſeeds, then may you cover and uncover them
+<pb n="31" facs="tcp:115421:24"/>
+at your own pleaſure, which other pots having holes in the tops of them, in the which you may place ſtone Funnels, whereby to retain the rain that falleth in the night, be<g ref="char:EOLhyphen"/>ing firſt ordered <hi>ſicut ante num.</hi> 19. is more fully hand<g ref="char:EOLhyphen"/>led; and when you think that the Plants have rooted deep enough, then you may dig a<g ref="char:EOLhyphen"/>bout the ſides of your pots, and ſo gently remove them, leaving the Plants faſt grow<g ref="char:EOLhyphen"/>ing behinde in the earth.<note place="margin">Pots for Dwarf-trees.</note> But if your purpoſe be to plant ei<g ref="char:EOLhyphen"/>ther Pepper trees, or Colo<g ref="char:EOLhyphen"/>quintida trees, Orange or Le<g ref="char:EOLhyphen"/>mon trees, Pomgranate trees or Almond trees, or ſuch like, then you may like<g ref="char:EOLhyphen"/>wiſe uſe pots of the ſame faſhion, ſaving onely that they
+<pb n="32" facs="tcp:115421:25"/>
+muſt be made of a far greater receipt, becauſe they are to yeeld a ſufficient nouriſhment to a greater Plant, and that it will be requiſite to have four large and ſtrong ears to every pot;<note place="margin">Tubs for Dwarf-trees.</note> although I know that ſome do rather commend large deep and ſtrong tubs, well pitched or cemented within and without, which may be tranſported upon great Coulſtaves or other carriages. And peradventure it ſhall not be amiſs to have theſe divided pots without any earthen bottoms, inſtead whereof you may binde a ſtrong and double oyled pa<g ref="char:EOLhyphen"/>per,<note place="margin">Bottoms of oyled paper</note> having a large hole there<g ref="char:EOLhyphen"/>in, which may be faſt tied a<g ref="char:EOLhyphen"/>bout the skirts of your pot with Packthred, which paper
+<pb n="33" facs="tcp:115421:25"/>
+bottoms may very well decay and rot during the time that each Plant will require for his deep rooting; &amp; if you doubt that the worm will be the ra<g ref="char:EOLhyphen"/>ther buſie with the paper be<g ref="char:EOLhyphen"/>cauſe of the oyle, then it ſhall not be amiſs to make the oyl ſomewhat bitter by a decocti<g ref="char:EOLhyphen"/>on of Wormwood therein, and by this means you may ea<g ref="char:EOLhyphen"/>ſily draw your pot out of the earth, without looſening the earth at all that cleaveth to the roots of your Plants.<note place="margin">Holes in the lips of the pots.</note> I could alſo wiſh that each of the a<g ref="char:EOLhyphen"/>foreſaid pots ſhould have ſome ſmall holes in the lip of every pot, eſpecially if they want ears, that thereby thin plated lead might be faſtned by ſmall wiers; in which leads, having your Prints for that
+<pb n="34" facs="tcp:115421:26"/>
+purpoſe,<note place="margin">Leads with let<g ref="char:EOLhyphen"/>ters hang<g ref="char:EOLhyphen"/>ing at the pots.</note> you may ſtrike two or three ſuch Letters of the A B C as you ſhall think good, which letters you may always refer to ſome paper book, wherin you may ſet down in particular the name of the Seed or Plant, the ordering, the ſeaſon wherein you ſet them, and all other circum<g ref="char:EOLhyphen"/>ſtances whatſoever, whereby you may learn either to iterate or avoid the like practice the next time.<note place="margin">Watering by a Liſt.</note> And it ſhall not be amiſs in a time of drought or dry weather, as alſo in the firſt ſowing or planting of your Simples, either to water them by a liſt, as appeareth more fully <hi>ante, num.</hi> 4. or elſe to place every pot in an earthen pan,<note place="margin">Nouriſh<g ref="char:EOLhyphen"/>ing waters.</note> half full of ſuch water as hath been firſt infuſed in
+<pb n="35" facs="tcp:115421:26"/>
+dung, ſope-aſhes, <hi>&amp;c.</hi> and expoſed a few days to the Sun before you do uſe it in this manner; for by this means the earth will draw or ſuck up ſufficient moiſture at the holes in the bottom, whereby the root ſhall be kindly watered. Neither is it amiſs, as I think,<note place="margin">B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rthen pans to place your pots in.</note> to have ſhells or pans of earth, wherein to place all your arti<g ref="char:EOLhyphen"/>ficial pots, which may receive ſuch rain water as ſoaketh through at the bottoms of your pots, which water be<g ref="char:EOLhyphen"/>cauſe it containeth the ſtrength or ſalt of the earth, would be after every great ſhowre returned upon the pots again.<note place="margin">Salt mold for your pots.</note> But the firſt and principal care of all other muſt be to fill your pot with a fat and rich mould, whereof
+<pb n="36" facs="tcp:115421:27"/>
+there is good choice in this ſmall Treatiſe, which being now and then refreſhed with freſh earth at the top and ſides by opening the pot, and pa<g ref="char:EOLhyphen"/>ring away firſt of the old earth,<note place="margin">Refreſh<g ref="char:EOLhyphen"/>ing with new mold.</note> and then filling them up again with new, may peradventure give great furtherance to your deſires. And if you would have your dwarf-trees grow<g ref="char:EOLhyphen"/>ing in the aforeſaid pots kept ſo backward as that they may bear their fruit after all other Fruit Trees of the ſame kind, then you may in the begin<g ref="char:EOLhyphen"/>ing of the year give them on<g ref="char:EOLhyphen"/>ly the morning Sun,<note place="margin">Backward<g ref="char:EOLhyphen"/>ing of your Dwarf-trees or Flowers.</note> or but one hours Sun in the morn<g ref="char:EOLhyphen"/>ing, and another in the even<g ref="char:EOLhyphen"/>ing, or elſe you may place them in ſhady places, till you would have them to come
+<pb n="37" facs="tcp:115421:27"/>
+forward; and hereby you may keep your Cherry-trees as backward as you pleaſe;<note place="margin">Avoiding of the froſts in May.</note> and ſo likewiſe if your deſire be to avoid the dangerous froſts in <hi>May,</hi> then muſt you keep theſe pots, trees and flowers in ſome cloſe room from the Sun, thereby to defend them from their early blooming,<note place="margin">Hiding of the art.</note> whereby thoſe later froſts being ſpent be<g ref="char:EOLhyphen"/>fore you expoſe them to the weather, the fruit ſhall be in no danger at the time of the knitting; and by this practice you may happen to have Cherries upon your Dwarf-trees when the great Cherry-orchard in <hi>Kent</hi> ſhall fail. And becauſe every ſpectator or beholder of theſe conceited trees may not pre<g ref="char:EOLhyphen"/>ſently
+<pb n="38" facs="tcp:115421:28"/>
+look into the invention hereof, it ſhall not be amiſs to make either ſo many holes in the ground, or ſo many brick receptacles as will re<g ref="char:EOLhyphen"/>ceive your pots all the Sum<g ref="char:EOLhyphen"/>mer time, wherein they may be ſo cloſely placed even with the ground, and all the brims of the pot ſo covered with earth, as that they ſhall ſeem to be growing ends in ordinary manner, to the great admiration of all ſuch as ſhall behold them.</p>
+               <p n="20">
+                  <note place="margin">The faſhi<g ref="char:EOLhyphen"/>on of your Stove for the Dwarf-trees.</note>20. Your Stove or cloſe Orchard may be made to o<g ref="char:EOLhyphen"/>pen at all ſides ſaving the North, in the manner of the ſhop-windows in <hi>London,</hi> whoſe board and timber muſt be well pitched, oiled or grea<g ref="char:EOLhyphen"/>ſed over with the fat of the
+<pb n="39" facs="tcp:115421:28"/>
+powder-beef-pot; but then perhaps it will be offenſive to your apparel, becauſe it is o<g ref="char:EOLhyphen"/>ver long in drying; the roof alſo may be divided into four parts, and each part ſo placed as that it may be drawn up with a pulley, thereby to re<g ref="char:EOLhyphen"/>ceive the Sun and Rain when you ſhall think good; and in cold weather, or in the win<g ref="char:EOLhyphen"/>ter ſeaſon to be kept warm, according to the manner ſet down <hi>ante, num.</hi> 8. But how to build a houſe in ſuch form as that the Sun both in the Summer and alſo in the Win<g ref="char:EOLhyphen"/>ter ſeaſon may ſhine therein very plentifully, ſee the opi<g ref="char:EOLhyphen"/>nion of <hi>Cardanus</hi> cited in the <hi>Collection of ſecrets,</hi> made by <hi>Wickerus,</hi> p. 591. <hi>Quaere</hi> of a round Stove turning on a pin
+<pb n="40" facs="tcp:115421:29"/>
+like a Windmil, and being full of glaſs-windows.</p>
+               <p n="21">
+                  <note place="margin">Forward<g ref="char:EOLhyphen"/>ing of fruit by a tent.</note>21. A tent ſpread over a Cherry-tree, or any other Fruit-tree, and receiving that vaporous heat, <hi>ante num.</hi> 8. will help greatly to forward the bloſſoming and ripening of any fruit, being uſed in the night time, and in all other ſharp and cold weather; all the Art will be herein to have ſome ſpeedy means of pitch<g ref="char:EOLhyphen"/>ing or ſpreading this tent, and taking the ſame down a<g ref="char:EOLhyphen"/>gain.</p>
+               <p n="22">
+                  <note place="margin">Cutting of Vines to bear quick<g ref="char:EOLhyphen"/>ly.</note>22. When you plant the cuttings of Vines, chuſe ſuch of the laſt years ſhoots as may have ſome part of the former years ſtock cut off with them, and ſo you ſhall have Grapes a year ſooner at the leaſt.</p>
+               <p n="23">
+                  <pb n="41" facs="tcp:115421:29"/>23. <hi>Quaere,</hi>
+                  <note place="margin">Nipping off the firſt bloſſoms.</note> if the taking away of the firſt bloſſoms of Fruits, will force any Fruit-tree to bring forth new bloſ<g ref="char:EOLhyphen"/>ſoms, and thereby to bear fruit a great deal later; <hi>poſt</hi> 81.</p>
+               <p n="24">24.<note place="margin">Glaſſes on your yong plants.</note> When you have firſt prickt in your ſeeds into the ground, ſet over each of them a glaſs which is broad below, and the bottom broken out, and whoſe neck is narrow, but leave the mouth open; theſe glaſſes defend off the cold air, encreaſe the heat of the ſun, and keep the Plants moiſt; becauſe the water as it aſcend<g ref="char:EOLhyphen"/>eth by the attraction of the ſun, ſo it ſlippeth down again by the gliding ſides of the glaſs; for I have ſeen in dry weather, the ground which
+<pb n="42" facs="tcp:115421:30"/>
+hath been covered with one of theſe glaſſes much blacker and moiſter then any other earth round about it; this is done to defend a young plant from the nipping cold, and from the parching heat, until it have gotten up to ſome growth whereby it may de<g ref="char:EOLhyphen"/>fend it ſelf the better, and then you may remove the glaſs.</p>
+               <p n="25">
+                  <note place="margin">Soil for out-land<g ref="char:EOLhyphen"/>iſh plants.</note>25. Let every outlandiſh Plant be ſet in ſuch ſoil as cometh neareſt in kinde to that ſoil wherein it did natu<g ref="char:EOLhyphen"/>rally grow beyond the Seas; or if you can, bring over ſuffi<g ref="char:EOLhyphen"/>cient of the ſame earth where<g ref="char:EOLhyphen"/>in it grew.</p>
+               <p n="26">
+                  <note place="margin">To for<g ref="char:EOLhyphen"/>ward Al<g ref="char:EOLhyphen"/>mond trees</note>26. Steep the Almonds with their ſhels in milk two or three days, then make a
+<pb n="43" facs="tcp:115421:30"/>
+trench of good dung of two foot deep, upon which make a lay of fine ſifted earth of a hand breadth deep, into which prick your Almonds, then cover them with more ſifted earth, and every year remove them, always planting them in the ſame trenched ground, and ſo they will grow a yard in heigth every year, as Sir <hi>Edward Denny</hi> of <hi>Ireland</hi> aſ<g ref="char:EOLhyphen"/>ſured me, upon his own trial; theſe becauſe they are dainty and ſhady trees, are fit to make ſtately Walks in Noblemens Gardens.</p>
+               <p n="27">27.<note place="margin">Orange, Lemon &amp; Almond trees for<g ref="char:EOLhyphen"/>warded.</note> For the forwarding of your ſeeds of Oranges, Le<g ref="char:EOLhyphen"/>monds, Almonds, Pomgra<g ref="char:EOLhyphen"/>nates, <hi>&amp;c.</hi> uſe the ſame or<g ref="char:EOLhyphen"/>der as is here ſet down, for Musk-mellon ſeeds, and then
+<pb n="44" facs="tcp:115421:31"/>
+remove your Plants into pots, which by apt covers you may ſufficiently defend from all manner of cold weather, not expoſing them to the air, but onely in a ſunny day.</p>
+               <p n="28">
+                  <note place="margin">When to ſow that which you wou d have to ſeed.</note>28. Whatſoever you would have to run to ſeed apace, ſow that ſeed either in three days before, or three days after the full of the Moon; <hi>quaere,</hi> if the three firſt days be not the better; and <hi>quaere,</hi> if the day of the full be not the beſt of all other.</p>
+               <p n="29">
+                  <note place="margin">High bor<g ref="char:EOLhyphen"/>ders of Time, Hyſop, &amp;c. ſpeedily.</note>29. If you board up earth to the height and bredth of a privy hedge that is of ſix or ſeven years growth with boards that be thick and well ſeaſoned, and bored through full of large and ſlope holes, or rather being full of long
+<pb n="45" facs="tcp:115421:31"/>
+ſlits; after the earth is well ſetled, you may plant the top of the border and ſides likewiſe with Hyſop, Time,<note place="margin">Sides of borders in works.</note> Lavender, <hi>&amp;c.</hi> or elſe you may plant the ſides with ſome con<g ref="char:EOLhyphen"/>trary Plant to make the one to ſet off the other the bet<g ref="char:EOLhyphen"/>ter; This way you may make dainty Borders of Carnati<g ref="char:EOLhyphen"/>ons if you keep the ſides cut in frets or other works, plant<g ref="char:EOLhyphen"/>ing the Carnations on the top of the borders; or if you pleaſe, you may cut out ſquare holes like checker boards,<note place="margin">Checker-works, Po<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s and Emblems.</note> or fair Roman Letters in poſes, or emblems in the ſides of the borders, and ſo keep them according to the works. By this deviſe you may alſo make Mounts, Pyramids <hi>&amp;c.</hi>
+                  <note place="margin">Mou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts, Pyramids.</note> accord<g ref="char:EOLhyphen"/>ing to the ſhape of the caſe
+<pb n="46" facs="tcp:115421:32"/>
+wherein you plant; and it will ſeem very ſtrange being ſet of ſuch plants as do ordi<g ref="char:EOLhyphen"/>narily grow very low and near the ground.<note place="margin">An artifi<g ref="char:EOLhyphen"/>cial tree or arbor.</note> This way alſo a man may plant an arti<g ref="char:EOLhyphen"/>ficial Tree or Arbor, planting the body and arms of the tree with Herbs or Flowers; and to cover the ſecret, you may hide the arms and body with the bark of trees or moſs; as alſo Dogs,<note place="margin">Dogs, Ly<g ref="char:EOLhyphen"/>ons, Fowl, Fiſh, &amp;c. artificial.</note> Lions, Bulls, Men, Fiſhes, Fowle, <hi>&amp;c.</hi> ha<g ref="char:EOLhyphen"/>ving hollow moulds for the ſame, either of ſtone or wood well pitched within and with<g ref="char:EOLhyphen"/>out: There may be alſo pipes of lead conveyed through the bodies of ſuch forms, which muſt be ſtopt at the ends, and have divers little holes in them, whereby water may be
+<pb n="47" facs="tcp:115421:32"/>
+conveyed with a Funnel into the pipe, unto every part of the earth.</p>
+               <p n="30">30.<note place="margin">Walks of green trees in winter.</note> If it be poſſible any way without fire or great charge, to have green Okes, Elms, or other Trees at Chriſt<g ref="char:EOLhyphen"/>mas, then I hold this for one of the likelieſt, To graff in the bud or otherwiſe any of the aforeſaid Trees upon the Bay or Holly-tree which ſeem to have ſtrong and hot ſap by their greenneſs in winter time. If this prove, you may graff and imp in the bud all ſorts of Fruit-trees upon the afore<g ref="char:EOLhyphen"/>ſaid ſtock, whereby you may have moſt comfortable and dainty Walks in your Or<g ref="char:EOLhyphen"/>chard or Garden. Mr. <hi>Maſ<g ref="char:EOLhyphen"/>kalls</hi> Book of the art of graft<g ref="char:EOLhyphen"/>ing, <hi>fol.</hi> 56. Some commend
+<pb n="48" facs="tcp:115421:33"/>
+the planting of Fir-trees in Walks, for this purpoſe.</p>
+               <p n="31">
+                  <note place="margin">Iron backs to your pots.</note>31. <hi>Quaere</hi> if it be not good in the Summer and Spring time to place concave backs of iron or tin plates in every pot wherein you have planted ei<g ref="char:EOLhyphen"/>ther Dwarf-trees or Flowers, and ſo to remove your pots from time to time as they may beſt receive the reflecti<g ref="char:EOLhyphen"/>on of the Sun, whereby to ri<g ref="char:EOLhyphen"/>pen them the ſooner; uſe the like againſt your cluſters of Grapes. <hi>Quaere</hi> if it be not good to plant Vines in moiſt grounds in reſpect of this ſe<g ref="char:EOLhyphen"/>cret.</p>
+               <p n="32">
+                  <note place="margin">A ſecond crop of the ſame beans</note>32. If you cut down Beans as ſoon as they have done bearing, and that the year prove a dripping year, you may have a ſecond crop grow<g ref="char:EOLhyphen"/>ing
+<pb n="49" facs="tcp:115421:33"/>
+from the ſame ſtalk that will come late; this I have proved in my Garden in St. <hi>Martins-lane. Quaere</hi> of Peaſe, otherwiſe you muſt water them preſently upon the cut<g ref="char:EOLhyphen"/>ting down, and now and then after, as the weather ſhall give occaſion.</p>
+               <p n="33">33.<note place="margin">Several waters.</note> I think of all waters that are not infuſed, rain wa<g ref="char:EOLhyphen"/>ter to be the beſt of all other to water your delicate plants with; but if for want thereof you ſhall be forced to water them with common water, yet let the ſame ſtand in a great ſtone or wooden veſſel three or four days in the Sun, before you water therewith; but for the better forwarding of your Fruit and Flowers, you may prove brackiſh wa<g ref="char:EOLhyphen"/>ter,
+<pb n="50" facs="tcp:115421:34"/>
+                  <hi>viz.</hi> ſuch as cometh near in proportion of ſaltneſs to the Sea-water, which is one part ſalt to twenty parts of water, or much thereabouts; but this may not be uſed often for burning of your plants; or rather you may try water infuſed upon common aſhes, or ſopeaſhes, and all manner of dung, or wherein there hath been ſtore of Hay, Litter or ſome other Herbs infuſed; you may alſo prove Wine, Milk, Wine-Lees, Strong-Beer, and <hi>Aqua compoſita,</hi> if they be not too chargeable. <hi>Quaere</hi> of Sopeſuds and pow<g ref="char:EOLhyphen"/>der Beef broth; <hi>quaere</hi> if it be not better alſo to water your plants with the ſaid water or liquors being made firſt blood warm, <hi>plus poſt.</hi> 35.
+<pb n="51" facs="tcp:115421:34"/>
+                  <hi>Quaere</hi> of the ſtrength or heart of much earth, extracted by common water, or rain water, and then evaporated to a ſmal quantity, wherewith you may water your plants to make them encreaſe exceedingly.</p>
+               <p n="34">34.<note place="margin">Backward<g ref="char:EOLhyphen"/>ing of Fruits and Flowers.</note> 
+                  <hi>Quaere</hi> of grafting Cherry-trees upon Apple-trees or Pear-trees, and ſo generally of all Flowers and Fruit that may be grafted, if being grafted upon ſuch kinde as be late and backward in bearing, if ſo the ſame will not bear their fruit much la<g ref="char:EOLhyphen"/>ter.</p>
+               <p n="35">35.<note place="margin">Roſes ear<g ref="char:EOLhyphen"/>ly.</note> About three weeks or a moneth before their uſual time of bearing, water your Roſes morning and evening onely with warm water, and by this means a <hi>Cambridge</hi>
+                  <pb n="52" facs="tcp:115421:35"/>
+man had Roſes yearly ſome twenty four daies before o<g ref="char:EOLhyphen"/>thers; <hi>quaere</hi> of this practice in all other Flowers, eſpecial<g ref="char:EOLhyphen"/>ly the water being firſt pre<g ref="char:EOLhyphen"/>pared <hi>ut ſupra, num.</hi> 33.</p>
+               <p n="36">
+                  <note place="margin">Early Cherries.</note>36. A French-man did greatly commend unto me the applying of unfleakt lime to the roots of Cherry-trees be<g ref="char:EOLhyphen"/>ing firſt made bare in a conve<g ref="char:EOLhyphen"/>nient time of the year, (<hi>quaere</hi> if it be not better to ſleak it firſt with water) and this for the forwarding of them in their bearing. <hi>Quaere</hi> if one part lime and one part earth, or one part lime and one part horſ-dung. This practice de<g ref="char:EOLhyphen"/>ſtroyeth the Tree in a few years, but that loſs is ſuppli<g ref="char:EOLhyphen"/>ed with the advantage in the price of ſuch early fruit. <hi>Quae<g ref="char:EOLhyphen"/>re</hi>
+                  <pb n="53" facs="tcp:115421:35"/>
+of Sopeaſhes laid at their roots.</p>
+               <p n="37">37.<note place="margin">Artichoke and Staw<g ref="char:EOLhyphen"/>berries to grow great</note> Lay ſheeps dung in ſoak in water for a convenient time, and water your Arti<g ref="char:EOLhyphen"/>chokes therewith, and it will make them very great: So likewiſe wil the water wherein dung hath been ſteeped make Strawberries very large and great; An antient Citizen in <hi>London</hi> did uſe in the winter time to burn the earth from the roots of his Artichokes, and inſtead thereof to lay in ſome of his waſte Sopeaſhes, and he found the ſame to for<g ref="char:EOLhyphen"/>ward them greatly.</p>
+               <p n="38">38.<note place="margin">A ſpeedy Orchard.</note> Slope your Stock up<g ref="char:EOLhyphen"/>ward, and ſlope your Cions downward, and joyn back to back, binde them together as Colliers do their whips, and
+<pb n="54" facs="tcp:115421:36"/>
+cloſe the joynts with temper<g ref="char:EOLhyphen"/>ed Loam and Moſs, or rather with wax, <hi>ut poſtea.</hi> 110. This is called the Whip-ſtock grafting, and you may in this manner graff a whole bow of a Tree to have an Orchard that ſhall bear fruit ſpeedily.</p>
+               <p n="39">
+                  <note place="margin">Grapes growing late and kept long.</note>39. Put the bunches of Grapes after they are knit in<g ref="char:EOLhyphen"/>to great and apt glaſſes, ha<g ref="char:EOLhyphen"/>ving two mouthes, holes or little pipes, the one juſt op<g ref="char:EOLhyphen"/>poſite to the other, <hi>viz.</hi> the one upward, the other down<g ref="char:EOLhyphen"/>ward, whereby both the wa<g ref="char:EOLhyphen"/>ter and the ſun may have iſ<g ref="char:EOLhyphen"/>ſue: And when you fear the froſts you may ſtop up the ends cloſs, and by this means you may happen to have Grapes growing upon the Vines at Chriſtmas; or elſe
+<pb n="55" facs="tcp:115421:36"/>
+when the Grapes are ripe, if you cut off a long branch of the Vine which hath one, two, or three cluſters of Grapes upon it, and at either end of the cutting, if you put a Pomwater, and every three days or ſix days change your Apples, tying a thread in the midſt of the cutting, and ſo hang the ſame up in a cool and dry place, they will keep freſh a long time. Some thruſt onely the ſtalk where<g ref="char:EOLhyphen"/>on the bunch groweth in a ſound and laſting Apple, and ſo hang it up; or elſe dig a hole in the earth, and lay good ſtore of ſtraw therein, and then Grapes, and then ſtraw again, and over them lay boards, which muſt be ſo co<g ref="char:EOLhyphen"/>vered over with ſand, as that
+<pb n="56" facs="tcp:115421:37"/>
+no air may enter; and by this means, as I am informed by a ſtranger, they will laſt a long time, <hi>vid. poſt.</hi> 109.</p>
+               <p n="40">
+                  <note place="margin">Good wines of Engliſh Grapes.</note>40. I think it not imperti<g ref="char:EOLhyphen"/>nent here to ſet down a means how we may of our Engliſh Grapes purchaſe an excellent good Wine; and the rather, for that I finde the ſame to be both probable and poſſible, both by ſome anti<g ref="char:EOLhyphen"/>quities and experiences ſet down by Mr. <hi>Barnabie Googe</hi> in his Book of Husbandrie, as alſo by that inevitable ar<g ref="char:EOLhyphen"/>gument which he draweth from the ſame altitude of the Pole wherein we are, and under which there be found beyond the ſeas moſt fruitful Vineyards, and which do yield both good and pleaſant
+<pb n="57" facs="tcp:115421:37"/>
+wines, as about <hi>Backrach, Co<g ref="char:EOLhyphen"/>lin, Andernach,</hi> and divers o<g ref="char:EOLhyphen"/>ther places in <hi>Germany,</hi> which have (as he affirmeth in his Epiſtle to the Reader) the ſelf ſame latitude and diſpoſi<g ref="char:EOLhyphen"/>tion of the Heavens that we have, whereby is ſufficiently confuted that common, though erroneous received o<g ref="char:EOLhyphen"/>pinion againſt our Climate, that it ſhould not be hot e<g ref="char:EOLhyphen"/>nough for that Plant; nay he proveth further that the wide<g ref="char:EOLhyphen"/>neſs to the South is not altoge<g ref="char:EOLhyphen"/>ther the cauſe of good Wines, as appeareth in that you have about <hi>Orleans</hi> great ſtore of good and excellent Wine, whereas if you go to <hi>Bruges,</hi> two days journey farther to the South, you ſhall finde a Wine not worth the drink<g ref="char:EOLhyphen"/>ing.
+<pb n="58" facs="tcp:115421:38"/>
+The like is of <hi>Paris</hi> and <hi>Barleduke</hi> (as Mr. <hi>D. Dale</hi> did inform him) the one being ſouthward, with naughty wines; and the other a great way farther to the North, with as good Wines as may be; and thus far Mr. <hi>Googe.</hi> Mr. <hi>Holinſhed</hi> alſo, in that his painful and commendable Hi<g ref="char:EOLhyphen"/>ſtory of <hi>England,</hi> doth con<g ref="char:EOLhyphen"/>ſtantly affirm, That this Iſland hath been greatly repleniſh<g ref="char:EOLhyphen"/>ed with Vineyards, and that it is not to be doubted but that if the ſame Plants were by continuance of time, and good ordering of them made fami<g ref="char:EOLhyphen"/>liar with our ſoil, we ſhould have both full and rich wines of our own growing. And here I have juſt cauſe to ac<g ref="char:EOLhyphen"/>cuſe the extreme negligence,
+<pb n="59" facs="tcp:115421:38"/>
+and blockiſh ignorance of our people, who do moſt unjuſt<g ref="char:EOLhyphen"/>ly lay their wrongful accuſa<g ref="char:EOLhyphen"/>tions upon the ſoil, whereas the greateſt, if not the whole fault juſtly may be removed upon themſelves. For where<g ref="char:EOLhyphen"/>as neither in Paſture nor ara<g ref="char:EOLhyphen"/>ble grounds they look for any great or continual encreaſe without all the due and neceſ<g ref="char:EOLhyphen"/>ſary circumſtances of Husban<g ref="char:EOLhyphen"/>dry be performed to the ſame; yet in Vines they onely ex<g ref="char:EOLhyphen"/>pect a plentiful Harveſt (or elſe they condemn the ſoil) although they beſtow no o<g ref="char:EOLhyphen"/>ther manuring, proining or ordering of them, but only cut and proin them in the 12 days, and that very careleſs, &amp; with<g ref="char:EOLhyphen"/>out any due regard or choice had of the branches which
+<pb n="60" facs="tcp:115421:39"/>
+ſhould be taken away cloſe to the ſtock, and which ſhould be cut off between the third and fourth joynt, and maintaining as well the waſte and ſucking roots, as the principal and ma<g ref="char:EOLhyphen"/>ſter roots which ought moſt chiefly to be cheriſhed and pre<g ref="char:EOLhyphen"/>ſerved. But becauſe this mat<g ref="char:EOLhyphen"/>ter requireth a large diſcourſe, and for that Mr. <hi>Barnaby Googe</hi> hath very ſufficiently handled this ſubject already, I will re<g ref="char:EOLhyphen"/>fer you to his labors, by which you may learn both the electi<g ref="char:EOLhyphen"/>on of your ſoil, and the beſt ſcituation therof, the planting of your Sets, the proining both of the Stock and Roots, the turning and tranſlation of the ground, the choice of the beſt and apteſt dung for them, with all other neceſſa<g ref="char:EOLhyphen"/>ry
+<pb n="61" facs="tcp:115421:39"/>
+circumſtances requiſite to the Plant, unleſs peradven<g ref="char:EOLhyphen"/>ture there may be ſome few obſervations elſe to be learn<g ref="char:EOLhyphen"/>ed, either at the hands of an experienced French Gardner, or that you ſhall think good to put in practice ſome one or other of theſe few conceit<g ref="char:EOLhyphen"/>ed helps for the better for<g ref="char:EOLhyphen"/>warding of them in this our cold Climate; onely I have thought it neceſſary for the avoiding of all French and Spaniſh objections, to ſet down a new, and yet a moſt aſſured and undoubted courſe how to furniſh our ſelves with ſuch ſtore of good and per<g ref="char:EOLhyphen"/>fect wines, as that we ſhall not need either to be beholding to the Frenchmen our doubtful friends, or to the Spaniards
+<pb n="62" facs="tcp:115421:40"/>
+our aſſured enemies, for this ſweet and delicate kinde of liquor; always provided that we uſe ſome careful means at the firſt to ſtore our ſelves with the right and natural plants of thoſe Vines, whoſe wine we deſire to have; for the bringing over of which plants from beyond the Seas, if we cannot otherwiſe furniſh our ſelves of them within our own Continent, we may uſe that pretty ingenious help for the carrying of our Sets be<g ref="char:EOLhyphen"/>ing well covered with earth, and conveyed into cloſe veſ<g ref="char:EOLhyphen"/>ſels, as Mr. <hi>Googe</hi> in his afore<g ref="char:EOLhyphen"/>ſaid Book hath in plain terms diſcloſed. Then ſuppoſing all the skilful experience of <hi>France</hi> to be firſt ſhewed and performed in our Engliſh
+<pb n="63" facs="tcp:115421:40"/>
+Vineyard, and that yet not<g ref="char:EOLhyphen"/>withſtanding there wanteth a ſufficient and perfect digeſti<g ref="char:EOLhyphen"/>on to bring the Grape to his full ripeneſs and maturity let us according to the French manner preſs out their ſweet and pleaſant juyce ſuch as it is, and by ſufficient decoction and ebullition bring the one moity thereof to the fulneſs of a cute, which being cold, we may well mix with equal proportions of the crude and raw wine, or ſo proportion the ſame as it may be moſt pleaſing to our own mouths, leaving them to the weather till they have inſeperably u<g ref="char:EOLhyphen"/>nited and incorporated them<g ref="char:EOLhyphen"/>ſelves together; and this is no ſtrange practice, but onely drawn from the Spaniard and
+<pb n="64" facs="tcp:115421:41"/>
+the Greek who cutteth both his Malmſeys and Muska<g ref="char:EOLhyphen"/>dines, and for the moſt part alſo his Canary Sack both to make them laſt the longer, and alſo to be more fuller of wine. Neither are we here to be diſcouraged at the charge of fire, or the waſt<g ref="char:EOLhyphen"/>ing of that faint flegmatique liquor that muſt of neceſſity be uſed in this work, for that (if every acre of ground will yield 700 gallons of wine, as <hi>Cato, Varro,</hi> and <hi>Colnmella</hi> do teſtifie, or as the Vineyards of <hi>Seneca</hi> did yeild with trade a Thouſand gallons upon every acre) I think we ſhall pay our ſelves with a higher intereſt then the Statute of 13 <hi>EliZ.</hi> will allow. Yet becauſe I will not altogether
+<pb n="65" facs="tcp:115421:41"/>
+perſevere in <hi>Veſtigiis patrum,</hi> I have thought good to ſet down another courſe out of mine own experience, where<g ref="char:EOLhyphen"/>by (if we ſhall be forced to uſe any outward helps in the default of our Soil or Cli<g ref="char:EOLhyphen"/>mate) we may yet by Art ſupply that unto our ſelves, which nature hath denied to perform of her ſelf: Then ha<g ref="char:EOLhyphen"/>ving firſt expreſſed ſuch li<g ref="char:EOLhyphen"/>quors as our Engliſh Vines be<g ref="char:EOLhyphen"/>ing well ordered will afford, let us to every gallon thereof add one pound of the beſt Raſins of the Sun, or Malaghie Raſins firſt waſhed in ſome change of waters; or if you will aim at a Canarie Sack, then chuſe the beſt of the <hi>Xanthe</hi> Currens you can get, being well cured and conditioned, and take a like
+<pb n="66" facs="tcp:115421:42"/>
+proportion of them to each gallon of your crude wine; leave them in this infuſion or imbibition, until the liquor have extracted both the tin<g ref="char:EOLhyphen"/>cture and ſtrength of the fruit; then draw the wine from the fruit, and when theſe two liquors have in time wrought themſelves into one body, they will become a moſt pleaſant wine, either re<g ref="char:EOLhyphen"/>ſembling the Baſtard, the Muſ<g ref="char:EOLhyphen"/>kadine or Canarie Sack, ei<g ref="char:EOLhyphen"/>ther to be drunk alone, or ſerving to compas or taſt any other wine withall, ac<g ref="char:EOLhyphen"/>cording to the proportion of the fruit which you infuſe, and according to the work<g ref="char:EOLhyphen"/>manſhip which you ſhall ſhew therein; for herein I am aſſu<g ref="char:EOLhyphen"/>red that I have given light
+<pb n="67" facs="tcp:115421:42"/>
+ſufficient to an ingenious Artiſt, both to check and mate all thoſe brewing Co<g ref="char:EOLhyphen"/>pers and Vintners of our age, who riſe early and work late in their groſs and jumbling ſlights and apparelling about their wines, when as it were much better both for the cre<g ref="char:EOLhyphen"/>dit of their houſes, and the health of their Cuſtomers, if they ſpent that time in their beds which they ſpend in their Cellars at midnight. But it ſhall ſuffice at this time, that I have broken the ice into a harder paſſage, and that I have given a taſte of ſome new skil, which I will be ready to en<g ref="char:EOLhyphen"/>large and amplifie as well in this ſubject as in others of higher reach, when I ſhall ſee men of worth and ſpecial de<g ref="char:EOLhyphen"/>ſert
+<pb n="68" facs="tcp:115421:43"/>
+to be diſtinguiſhed from the vulgar ſort by their ho<g ref="char:EOLhyphen"/>norable reward, till which time I will leave Nature in a ſweet ſlumber; <hi>Sed nunc ad oppoſitum.</hi>
+               </p>
+               <p n="41">
+                  <note place="margin">Young Onions all the year.</note>41. If you ſow onion ſeeds every moneth in the wane of the Moon, and in cold wea<g ref="char:EOLhyphen"/>ther; if you ſteep the ſeeds in warm water, and ſow them in earth well dunged in pots, and remove the pots into cloſe rooms in cold and un<g ref="char:EOLhyphen"/>ſeaſonable weather, you may by this means have Onions young and freſh growing all the year, as a Gentleman of <hi>Ireland</hi> did credibly inform me of his own experience. <hi>Quaere</hi> if young Radiſhes may not be had in the ſame manner.<note place="margin">Young Ra<g ref="char:EOLhyphen"/>diſhes all the year.</note>
+               </p>
+               <p n="42">
+                  <pb n="69" facs="tcp:115421:43"/>42.<note place="margin">Roſes growing at Chriſtmas</note> If you cut a Red or Damask Roſe root on Mid-ſummer day, between eleven and twelve of the clock be<g ref="char:EOLhyphen"/>fore noon, at Chriſtmas it will bear Roſes. Note that you muſt defend them from cold weather by covering them all over with ſtraw. <hi>Quaere</hi> if this ſecret may not be perfor<g ref="char:EOLhyphen"/>med beſt in ſuch Roſes as grow in pots or tubs, becauſe they may be beſt defended from all injury of froſts, by removing them into cloſs pla<g ref="char:EOLhyphen"/>ces.</p>
+               <p n="43">43.<note place="margin">Grapes g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owing late.</note> Towards cold weather you muſt cover with ſome well tempered loam (as with horſ-dung or flocks, but I take flock to be the better) all the ſtalks of the Vine even to the bunches of Grapes, cover<g ref="char:EOLhyphen"/>ing
+<pb n="70" facs="tcp:115421:44"/>
+the bunches themſelves with ſtraw, and ſo you ſhall have your Grapes growing upon the Vine at Chriſtmas. <hi>Quaere</hi> if this ſecret ſerve for any other Trees. Note alſo that your vines muſt be o<g ref="char:EOLhyphen"/>pened three times in the year, and be dunged with ſome apt ſoil for them.</p>
+               <p n="44">
+                  <note place="margin">Rich earth for pots.</note>44. Take the earth that you ſhall finde under an old Muck heap, but dig not too deep; this alone is an excel<g ref="char:EOLhyphen"/>lent mold to plant your Gil<g ref="char:EOLhyphen"/>liflowers and other Flowers and Dwarf-trees in; but if you mingle therewith both lime and dung alſo, and tem<g ref="char:EOLhyphen"/>per them well together, it will be a good means to for<g ref="char:EOLhyphen"/>ward ſuch Flowers as you ſhall place therein, but you
+<pb n="71" facs="tcp:115421:44"/>
+muſt not ſet your pots in the South ſun. <hi>Quaere</hi> of plant<g ref="char:EOLhyphen"/>ing each Flower in its own pu<g ref="char:EOLhyphen"/>trefaction with earth, or in the putrefaction of Corn or any other Vegetable. See more at large hereof <hi>porta pag.</hi> 100.</p>
+               <p n="45">45.<note place="margin">A ſecond crop of Artichokes</note> Some by cutting down of Artichokes preſently after their bearing, gain alſo a ſe<g ref="char:EOLhyphen"/>cond crop about Michaelmas or Alhallontide, if the wea<g ref="char:EOLhyphen"/>ther prove not too ſharp, be<g ref="char:EOLhyphen"/>cauſe the Plant is tender; or elſe after they have done bear<g ref="char:EOLhyphen"/>ing you may cut them often, if you will loſe your ſecond crop of Artichokes, and con<g ref="char:EOLhyphen"/>tent your ſelf only with ſuch ſtalks as will ſpring from time to time, and be very good meat being tenderly ſodden.</p>
+               <p n="46">
+                  <pb n="72" facs="tcp:115421:45"/>
+                  <note place="margin">When to ſow ſeeds in reſpect of the Moon.</note>46. All ſuch ſeeds as you would have to run to ſeed a<g ref="char:EOLhyphen"/>gain, muſt be ſown in the three days before or after the full of the Moon, or at the full, and theſe will be for<g ref="char:EOLhyphen"/>warder then thoſe which be ſown three weeks before them in the wain of the Moon, as ſome Gardeners do hold.</p>
+               <p n="47">
+                  <note place="margin">Hindering of the Colleflow<g ref="char:EOLhyphen"/>er in blow<g ref="char:EOLhyphen"/>ing.</note>47. When your Cole<g ref="char:EOLhyphen"/>flower is almoſt ripe, cut it off, leaving a pretty long ſtalk at it, prick the ſtalk in the ground, and by this means the flower will be ſomewhat long before it blow, and ſo you may have then one under another, as you ſhall have cauſe to ſpend them.</p>
+               <p n="48">
+                  <note place="margin">Salt to for<g ref="char:EOLhyphen"/>ward Peaſe</note>48. <hi>Quaere</hi> of ſowing of two buſhels of ſalt amongſt
+<pb n="73" facs="tcp:115421:45"/>
+four buſhels of Beans or Peaſe what effects it will work ei<g ref="char:EOLhyphen"/>ther in forwarding them, or in the enriching of the ſoil, eſ<g ref="char:EOLhyphen"/>pecially being oftentimes ſtrewed; for I have been cre<g ref="char:EOLhyphen"/>dibly informed that the like proportion of ſalt amongſt ſeed-corn will multiply the encreaſe thereof exceeding<g ref="char:EOLhyphen"/>ly.</p>
+               <p n="49">49.<note place="margin">To pre<g ref="char:EOLhyphen"/>ſerve fruit upon dwarf trees.</note> Plant many Dwarf-trees, and bow down their branches with their fruit up<g ref="char:EOLhyphen"/>on them, including the fruit And <hi>quaere</hi> how long the fruit will keep; you muſt have par<g ref="char:EOLhyphen"/>ty covers to your pots, and wel luted.</p>
+               <p n="50">50.<note place="margin">A fructi<g ref="char:EOLhyphen"/>fying water or ſeeds.</note> 
+                  <hi>Quaere</hi> of ſtriing of ſeeds in water wherein ſome Sandi<g ref="char:EOLhyphen"/>ner is firſt diſſolved. <hi>Quaere</hi> if one ſixteenth part be not a
+<pb n="74" facs="tcp:115421:46"/>
+good proportion, for that cometh near unto the ſalt wa<g ref="char:EOLhyphen"/>ter, wherein there is ſome eighteen or twenty parts of ſalt.<note place="margin">Lemon, Orange, Pomgra<g ref="char:EOLhyphen"/>nate tree.</note> 
+                  <hi>Quaere</hi> alſo of watering all outlandiſh Trees, as Le<g ref="char:EOLhyphen"/>mon, Orange, Pomgranet, <hi>&amp;c.</hi> therewith to forward them in their bearing. <hi>Quaere</hi> alſo of a ſtrong Lee made of the waſte Sope-aſhes <hi>plus an<g ref="char:EOLhyphen"/>te num.</hi> 33.</p>
+               <p n="51">
+                  <note place="margin">Late fruits</note>51. Some do hold that if you nip off the bloſſoms in the midſt with your nails when they do firſt bud forth, that new bloſſoms will after<g ref="char:EOLhyphen"/>wards break forth cloſe by them, which will come later then the firſt. <hi>Quaere</hi> of the like practice upon thoſe new bloſſoms likewiſe, <hi>ante num.</hi> 23.</p>
+               <p n="52">
+                  <pb n="75" facs="tcp:115421:46"/>52.<note place="margin">A practice upon Roſes.</note> 
+                  <hi>Quaere</hi> what will fol<g ref="char:EOLhyphen"/>low by the declination of the branches of Roſes and o<g ref="char:EOLhyphen"/>ther Flowers into pots either empty or half full of water, and ſtanding within the ground.</p>
+               <p n="53">53.<note place="margin">Sopeſuds and Pow<g ref="char:EOLhyphen"/>der-beef-broth.</note> 
+                  <hi>Quaere</hi> of throwing all the ſope-ſuds, and all the Powder-beef-broth at the roots of Cherry-trees, and other Trees, what effect will follow, and ſo of flowers.</p>
+               <p n="54">54.<note place="margin">When to lop or proin.</note> Lop no tree in wet wea<g ref="char:EOLhyphen"/>ther, neither cut down any Herbs in a rainy day, but in neceſſity. <hi>Andrew Hill.</hi>
+               </p>
+               <p n="55">55.<note place="margin">Shavings of horn.</note> 
+                  <hi>Quaere</hi> of ſteeping ſhavings of horn a long time in water, and after watering of Trees or Plants there<g ref="char:EOLhyphen"/>with.<note place="margin">Horn to Cherry-trees.</note>
+               </p>
+               <p n="56">56. <hi>Quaere</hi> of laying of
+<pb n="76" facs="tcp:115421:47"/>
+ſtore of horns at the roots of Cherry-trees, <hi>&amp;c.</hi> if they will forward their bearing.<note place="margin">P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſe for<g ref="char:EOLhyphen"/>ward<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with horn.</note>
+               </p>
+               <p n="57">57. What ſhavings of horn will do in forwarding a Peaſe field, or in forwarding of out<g ref="char:EOLhyphen"/>landiſh ſeed; but eſpecially ſow early Peaſe, ſuch as Mr. <hi>Flower</hi> ſoweth by <hi>Bednal-green.</hi>
+               </p>
+               <p n="58">
+                  <note place="margin">Taylors ſhreds.</note>58. Taylors ſhreds laid upon the ground will enrich it greatly.</p>
+               <p n="59">
+                  <note place="margin">Horn into a gelly to forward fiui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</note>59. If you ſteep ſhavings of horn in water and lime, the horn in time will grow to a gelly, then may you drein a<g ref="char:EOLhyphen"/>way the water, and apply the ſame to the roots of Trees or Herbs, without diſcovering of your ſecret.<note place="margin">Roſe-trees forwarded.</note> I have heard them much commended in forwarding of Roſe-trees.</p>
+               <p n="60">
+                  <pb n="77" facs="tcp:115421:47"/>60.<note place="margin">When to proin trees</note> The branches of all Trees muſt be cut off in ſet<g ref="char:EOLhyphen"/>ting time,<note place="margin">Peach tree.</note> except the Peach tree, from which you muſt onely take away the dry branches. <hi>Ex veter. lib. ma<g ref="char:EOLhyphen"/>nuſcrip. pergam Th. Gaſ.</hi>
+               </p>
+               <p n="61">61.<note place="margin">Young plants co<g ref="char:EOLhyphen"/>vered with a vail in the night.</note> When you plant any tender Tree, as the Apricock or ſuch like, place it if you can againſt a pale or wall, and till cold weather be paſt, cover the ſame with a cloſe cloth every night, rolling it up in the day time when the ſun<g ref="char:EOLhyphen"/>ſhineth, or when the air is warm and temperate.</p>
+               <p n="62">62.<note place="margin">Roots of y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ung plants well watered.</note> In the planting of e<g ref="char:EOLhyphen"/>very young Tree or Buſh, pour in after it is ſet a gallon, two or three of water after it, to make it root the ſoo<g ref="char:EOLhyphen"/>ner.</p>
+               <p n="63">
+                  <pb n="78" facs="tcp:115421:48"/>
+                  <note place="margin">When to gather fruit</note>63. Gather your Apples when the weather is dry, and alſo in the waining of the Moon, and that will preſerve them greatly from rotting; <hi>quaere</hi> if that be not general in all fruit.</p>
+               <p n="64">
+                  <note place="margin">Cropping of trees.</note>64. When you cut off the head of any Tree, either to graff upon or for fuel, leave one branch near the top for the ſap to run up upon, for fear the tree periſh.</p>
+               <p n="65">
+                  <note place="margin">Enriching of corn ground with ſalt.</note>65. If you ſcatter three buſhels of bay-ſalt upon arable ground after harveſt, you may ſow four times barley upon the ſame ground, and gain rich crops; <hi>quaere</hi> of a fith crop. <hi>Probat.</hi> at <hi>Cheſwick per</hi> Mr. <hi>Phil. Herb.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="79" facs="tcp:115421:48"/>
+               <head>66. <hi>The whole manner of plant<g ref="char:EOLhyphen"/>ing and ordering the Musk-Mellon, Cucumber, Pompe<g ref="char:EOLhyphen"/>on,</hi> &amp;c.</head>
+               <p>Get a load or two of new horſdung, wherein there is good ſtore of Litter, and ſuch as is not above ſeven or ten days old, or not exceeding fourteen, and which hath been laid ſtill upon a heap, as it was taken out of the ſtable; dig a pit that may be fit to re<g ref="char:EOLhyphen"/>ceive the ſame, and ever as you lay any reaſonable quantity thereof, tread it down as hard as you can; then ſift about two inches thick of fine mold up<g ref="char:EOLhyphen"/>on the dung, and prick in at every three or four inches a Musk-mellon ſeed (which
+<pb n="80" facs="tcp:115421:49"/>
+muſt be firſt ſoaked twenty four hours together in milk) ſtake this border of dung and earth round about very thick with ſticks or forks that may appear above the ground ſome four inches in heighth, and upon theſe ſticks lay hur<g ref="char:EOLhyphen"/>dels or lathes or other twigs, so faſtned together as that ly<g ref="char:EOLhyphen"/>ing upon the ſticks they may cover all the Plants over; up<g ref="char:EOLhyphen"/>on theſe Hurdels lay good ſtore of ſtraw, <hi>viZ.</hi> ſo much as may be ſufficient both to de<g ref="char:EOLhyphen"/>fend the cold from the ſeeds, and alſo to keep out a reaſon<g ref="char:EOLhyphen"/>able ſhowre of rain if it hap<g ref="char:EOLhyphen"/>pen to fall before the remo<g ref="char:EOLhyphen"/>ving of your plants. Let them ſo reſt for twenty four hours, and then you ſhall ſee them peep above the ground, and
+<pb n="81" facs="tcp:115421:49"/>
+if the weather be open, and that the Sun ſhine, give them for ſeven or eight days after two hours ſun at the riſing, and likewiſe at the ſetting thereof every day, by removing away the Hurdels with the ſtraw upon them; then if the weather have been warm and that you ſee that every Plant hath gotten three or four leaves, you may remove them, ta<g ref="char:EOLhyphen"/>king alſo ſufficient of the earth and dung that grew a<g ref="char:EOLhyphen"/>bout each Plant with it, not looſening the root at all; then ſet theſe Plants in holes made of purpoſe, ſo as they may ſtand about ſix inches within the earth, that thereby you may cover them and uncover them as before for five or ſix days; and if they hold out
+<pb n="82" facs="tcp:115421:50"/>
+ſo long, then are they paſt all danger, unleſs ſome ſtorm of hail happen to beat upon them; but to avoid all dan<g ref="char:EOLhyphen"/>ger, I think it not amiſs for three or four weeks after they be removed, to keep them covered with empty pots as before, both night and day, ſaving that in fair days you may acquaint them by little and little, more and more with the Sun, in cold or gloo<g ref="char:EOLhyphen"/>my days not uncovering them at all. Now when they have ſhot out all their joynts (which you ſhall perceive when you ſee a knot at the very end of the ſhoot, which is ſomewhat before the flovvering time) then muſt you cover every knot or joynt vvith a ſpade or ſhovelful of earth, and there<g ref="char:EOLhyphen"/>by
+<pb n="83" facs="tcp:115421:50"/>
+each knot vvill root, and put forth a nevv ſhoot; (<hi>quae<g ref="char:EOLhyphen"/>re</hi> of the ſame order in Cu<g ref="char:EOLhyphen"/>cumbers, Pompeons) by vvhich means you ſhall have great encreaſe of Mellons, as perhaps tvventy five or thir<g ref="char:EOLhyphen"/>ty riſing from one Plant. But if in twenty four hours ſpace your Plants do not peer above the ground, then you muſt water them in the heat of the day, and your water being pretty warm; and <hi>quaere</hi> if ſome of thoſe waters, <hi>ante num.</hi> 33. be not good for this purpoſe; <hi>quaere</hi> alſo of ſalt or urine which are thought of ſome to be a very ſpecial good means to keep a dunghil a long time hot for the digeſti<g ref="char:EOLhyphen"/>on of Chymical work. You muſt not forget to water
+<pb n="84" facs="tcp:115421:51"/>
+theſe young Plants often, at which time you may prove either common water, or firſt infuſed in ſome rich ſoil, and then warmed before you ap<g ref="char:EOLhyphen"/>ply the ſame; <hi>quaere</hi> of be<g ref="char:EOLhyphen"/>ſtowing of ſope-aſhes about their roots. When your Mellons are as big as little balls, then if you nip off the ſhoots that are beyond them, they will grow exceeding great; for then the ſap doth not run any more to waſte. Note alſo that this fruit deſi<g ref="char:EOLhyphen"/>reth to be kept from moiſture, and therefore you muſt uſe to cover them with broad leaves from the rain. Some be of opinion that all the art before ſet down for the ſpee<g ref="char:EOLhyphen"/>dy obtaining of Plants is needleſs, and that if you do
+<pb n="85" facs="tcp:115421:51"/>
+onely let a few Musk-mellons ſhed their ſeeds as they grow, that ſo they will be much for<g ref="char:EOLhyphen"/>warder then by this device. <hi>Sed quaere,</hi> if it ſhall not then be very requiſite to cover and defend them from all the in<g ref="char:EOLhyphen"/>jury of the winter froſts, which the tenderneſs of that Plant will otherwiſe very hardly bear or indure; <hi>quaere,</hi> of Ridge tiles, or other Cilin<g ref="char:EOLhyphen"/>ders of clay or tin plates to ſet oppoſite againſt the Sun, and cloſe by their roots, in ſuch ſort as they may receive the reflection of the Sun upon them to haſten their bearing, which you muſt remove in the afternoon, oppoſing them ſtill towards the ſun, ſo as the Cilinders may at no time in the day ſhadow the roots;
+<pb n="86" facs="tcp:115421:52"/>
+but then it will be alſo neceſ<g ref="char:EOLhyphen"/>ſary to water them continual<g ref="char:EOLhyphen"/>ly with dropping liſts, leſt the exceſſive heat of the ſun-beams ſhould make them to parch and wither. See all this more truly ſet down in my laſt book of Gardening, <hi>fo.</hi> 8. <hi>num.</hi> 18.</p>
+               <p n="67">
+                  <note place="margin">Speedy ar<g ref="char:EOLhyphen"/>bors and green in winter.</note>67. The Beech-tree grow<g ref="char:EOLhyphen"/>eth green continually, and therefore moſt apt to make pleaſant Arbors for the winter alſo. See <hi>Googes Husbandry, fol.</hi> 101.</p>
+               <p n="68">68. Beech-trees or Birch-trees make an Arbor ſpeedily, and ſo likewiſe of the Jeſamy, and of the Pompeon Plants, but they grow not long green; <hi>quaere</hi> of French-beans.</p>
+               <p n="69">
+                  <note place="margin">Delicate pots for Carnations</note>69. In this manner you may have moſt delicate Car<g ref="char:EOLhyphen"/>nation
+<pb n="87" facs="tcp:115421:52"/>
+or Gilliflower pots; Cauſe pots of eighteen or twenty inches heighth, and of a good breadth to be made in what faſhion you will, with two ears Eaſt and Weſt, and two pipes North and South, at the which you may water your Flowers; let the pipes be full of little holes at the enter<g ref="char:EOLhyphen"/>ing into the pot, and let your pot be made full of holes at the ſides, each hole diſtant one full inch from ano<g ref="char:EOLhyphen"/>ther, in the which you may plant Tyme, Hyſop, or ſmall Lavender, and as it groweth keep the ſame even with cut<g ref="char:EOLhyphen"/>ting, or you may leave ſome part of the Herbs to grow longer then the reſt, to make thereof Diamonds, Frets, <hi>&amp;c.</hi> In theſe pots you may plant
+<pb n="88" facs="tcp:115421:53"/>
+Roſes, Carnations, Lillies, <hi>&amp;c.</hi> or you may have your pots made in the ſhape of Flower-de-luces, round Balls, Dia<g ref="char:EOLhyphen"/>monds, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>70. <hi>How to prevent the com<g ref="char:EOLhyphen"/>mon error, whereby every ſe<g ref="char:EOLhyphen"/>cond year is made more un<g ref="char:EOLhyphen"/>fruitful then otherwiſe it would be of Apples, Pears, Plums,</hi> &amp;c. <hi>by the negligence of man.</hi>
+               </head>
+               <p>
+                  <note place="margin">Preſerving the Bud.</note>This is done by the careful gathering of your Fruit; for almoſt every Apple, Pear, Plum, <hi>&amp;c.</hi> when it is ripe hath a little pin or bud hard by it, which the next year would be an Apple, Pear, or Plum; and therefore in the gathering of your Fruit, you muſt have
+<pb n="89" facs="tcp:115421:53"/>
+ſpecial care to pull them off ſo, as you hurt not the bud, which is eaſily done if you break off the Pear, Apple or Plum from the bud, and not toward it, whereby to hurt it.</p>
+            </div>
+            <div type="part">
+               <head>71. <hi>How to keep Plums from cleaving, and ſo of Flowers.</hi>
+               </head>
+               <p>This is done by the opinion of ſome by wreathing onely of the bows or branches whereon they grow. <hi>Quaere,</hi> if this or any ſuch like means will help where Carnations or Gilliflowers do uſe to break the Cod.</p>
+               <p n="72">72. <hi>How Flowers and other Dwarf-trees that root deep, may notwithſtanding be for<g ref="char:EOLhyphen"/>ced
+<pb n="90" facs="tcp:115421:54"/>
+to grow in ſmall pots or wooden veſſels.</hi>
+               </p>
+               <p>
+                  <hi>Quaere</hi> if this may not be done by planting them in pots that be divided in halves, in <hi>ante num.</hi> 20. or ſuch as be made ſteeplewiſe, where<g ref="char:EOLhyphen"/>by the earth and plant toge<g ref="char:EOLhyphen"/>ther may be uncaſed, and pared away at the ſides and bottoms, and ſupplied with good and freſh mold, and by taking away all the ſuperflu<g ref="char:EOLhyphen"/>ous ragged roots thereof, and cutting of the maſter root the ſhorter. For the only let as I imagine, that ſhould hinder great Plants from growing long in ſmal veſſels, is becauſe the root cannot have room and deep enough to grow in; as alſo for that ſo ſmall a
+<pb n="91" facs="tcp:115421:54"/>
+quantity of earth cannot give nouriſhment enough to ſo great a Plant; without ſome yearly helps.</p>
+            </div>
+            <div type="part">
+               <head>73. <hi>A ſpecial order for plant<g ref="char:EOLhyphen"/>ing and ordering of all Or<g ref="char:EOLhyphen"/>chards, whereby your Trees ſhall flouriſh exceedingly, and bear ſtore of fruit.</hi>
+               </head>
+               <p>Some hold opinion, That if the ground be moiſt, then the ſhallower you ſet the Trees, the better they will proſper; but if the ground be dry, then the deeper the better; but I have heard it very confident<g ref="char:EOLhyphen"/>ly affirmed by a Gentleman of good judgement, and great experience in <hi>re ruſtica,</hi> That all Fruit-trees would be pla<g ref="char:EOLhyphen"/>ced even in the ſummity of the earth, ſo as their roots may
+<pb n="92" facs="tcp:115421:55"/>
+onely be well covered with earth, by which practice he hath ſeen a Tree that grew deep before, removed and planted in this manner, which bare his full burthen of Fruit in the firſt year of the tranſ<g ref="char:EOLhyphen"/>planting thereof; and by this means every ground that will carry a good and rich ſwoard of graſs, and being onely two foot or eighteen inches of good earth, will ſerve to make a moſt fruitful Orchard, wherby that erroneous con<g ref="char:EOLhyphen"/>ceit (that it is impoſſible to have a proſperous bearing Or<g ref="char:EOLhyphen"/>chard where a vain of gravel lieth within two foot of the turff) is utterly confuted and reproved, which would be a very joyful and welcome ſe<g ref="char:EOLhyphen"/>cret to a great number of our
+<pb n="93" facs="tcp:115421:55"/>
+Engliſh Gentlemen and o<g ref="char:EOLhyphen"/>thers, who notwithſtanding their great charge in laying in of infinite ſtore of earth upon their Backſides, can by no means procure a good Or<g ref="char:EOLhyphen"/>chard to themſelves, and that onely by reaſon of the deep ſetting of their Trees, which (how good ſoever the earth be) doth greatly hinder them and keep them back both in ſpreading and fructifying; the reaſon whereof is apparent to every young Novice in the Schools of Philoſophy. Now becauſe theſe ſhallow-rooted Trees will be in ſome dan<g ref="char:EOLhyphen"/>ger to be overcome with the high and boiſterous winds, it is therefore neceſſary to ſet them about Alhallontide when the ground being moiſt
+<pb n="94" facs="tcp:115421:56"/>
+moiſt and ſupple, and the driping ſeaſon of the year may faſten and knit the earth unto them; and for their better ſtay, it will be requiſite, that every tree have a ſufficient prop to ſupport it; all ſuch graſs or other weeds as grow about theſe trees muſt either be weeded out or pared away, that there may be no Plant at all to draw any of that vegeta<g ref="char:EOLhyphen"/>tive ſalt of the earth from the roots of the Trees; this graſs may be laid in ſome fit place till it be putrified, and then returned again to his firſt place. And becauſe in hot Summers and dry weather, theſe Trees that ſhall root thus near the ſuperficies of the ground will be apt to parch and burn away, unleſs there
+<pb n="95" facs="tcp:115421:56"/>
+be ſome moiſtning means uſed to the ſame; I would therefore adviſe that there be ſome pretty ſtore of peaſe-ſtraw or Fearn laid about the bottom of each Tree, which being now and then well moiſtened with water, if the ſeaſon happen to be dry, will keep the roots wet enough, and defend them from the ſcorching heat of the ſun, or elſe you may wet them with a dropping liſt that may diſtill even through the ſtraw or fern unto the root. <hi>Quaere</hi> if that Vines may be uſed in this manner. Theſe Trees may be ſuccored and relieved now and then with ſome freſh mold, whereof a ſmal quanti<g ref="char:EOLhyphen"/>ty will ſerve, becauſe the roots are ſo near to the uppermoſt
+<pb n="96" facs="tcp:115421:57"/>
+cruſt of the ground; here I think Sopeaſhes would ſerve to good purpoſe.</p>
+            </div>
+            <div type="part">
+               <head>74. <hi>The juſt time or</hi> ipſum nunc, <hi>when it is beſt to graff, both in reſpect of the Cions, as alſo of the Stock.</hi>
+               </head>
+               <p>The Spring time of all o<g ref="char:EOLhyphen"/>ther is the moſt proper and apt time for graffing, becauſe then Nature being ſtirred up by the ſtrength of the climing Sun, doth force the ſap to aſcend into the uppermoſt part; but becauſe this ſeaſon of the year is ſubject to much alteration, either by exceſſive moiſture, or too much drout, and ſometimes by the ſharp and nipping froſts, that often do kill, and many times do
+<pb n="97" facs="tcp:115421:57"/>
+ſtay and hinder the firſt put<g ref="char:EOLhyphen"/>ing forth of Vegetables. I have therefore thought it good for the better certainty of thy e<g ref="char:EOLhyphen"/>lection and choice of times, to ſhew thee ſome undoubted way how thou mayſt under<g ref="char:EOLhyphen"/>ſtand Nature herſelf ſpeaking in this point by undoubted and demonſtrative ſigns unto thee. And therefore when thou ſhalt perceive that ſhe begineth to thruſt forth thoſe little red buds, which give the firſt hope of encreaſe unto thee; then, I ſay, and before thoſe buds do break out either into a green colour, much leſs into leaves, thou muſt aſ<g ref="char:EOLhyphen"/>ſure thy ſelf that thy Cions is ready to be taken off, and graffed in ſuch a ſtock, as hath alſo buds of the like
+<pb n="98" facs="tcp:115421:58"/>
+colour and bigneſs unto them, by which means they will ſo jump in a ſympathy of Nature together, as that they will moſt lovingly and kindly em<g ref="char:EOLhyphen"/>brace each other. And note, that the ſtock muſt always be as forward at the leaſt as the Cions; for otherwiſe the Stock will ſtarve the Ci<g ref="char:EOLhyphen"/>ons.</p>
+            </div>
+            <div type="part">
+               <head>75. <hi>The manner of implaſter<g ref="char:EOLhyphen"/>ing, Inoculating, or Graffing in the bud, with all neceſ<g ref="char:EOLhyphen"/>ſary circumſtances.</hi>
+               </head>
+               <p>In ſome ſmooth part of the Stock whereupon you mean to graff, you muſt firſt ſlit the bark about half an inch over<g ref="char:EOLhyphen"/>thwart the body or branch; then ſlit likewiſe the bark thereof downward from the
+<pb n="99" facs="tcp:115421:58"/>
+midſt of the overthwart ſlit ſomewhat more then an inch in length, into which convey your bud with the leaf at it, ſo as you place bark to bark at the upper end, and croping of the uppermoſt part of the leaf; then binde the bark of the ſtock about the bud, with ſuch bands as are commonly uſed in the binding up of Brawn, and cloſe up the joynt with Loam and Moſs well tempered together; at three weeks end you muſt take off that band, becauſe the bud will ſwell, and then you muſt binde the ſame again more eaſily with a new band; but ſome do hold it ſufficient to ſlit the band only in the back<g ref="char:EOLhyphen"/>ſide, and ſo to leave it. Note that in the gathering of your
+<pb n="100" facs="tcp:115421:59"/>
+bud you muſt be careful that you hurt not the bud in the inner ſide of the bark, when you divide the ſame from the branch whereon it grew; for if you finde any hole or pit therein, it is a manifeſt ſign that you have left the bud behind; for the avoiding of which danger, the beſt way of all other that ever I could finde was, to ſlope the bark a little upward in taking off the bud, and to ſlit down at the ſides and bottom thereof, ſo as it may be a pretty large ſquare, and then putting in your finger gently at the up<g ref="char:EOLhyphen"/>per end to draw the ſame downward, as you would ſlip off an Eels-skin; this bud you muſt place in a ſquare hole cut out of purpoſe for the
+<pb n="101" facs="tcp:115421:59"/>
+ſame, and ſitting bark to bark as near as you can in e<g ref="char:EOLhyphen"/>very place. Some in gather<g ref="char:EOLhyphen"/>ing of the leaf with the bud do make an overthwart ſlit a little above the leaf, which leaf would be ſuch a one as hath a fair ſwelling bud by it; then they ſlit the bark on ei<g ref="char:EOLhyphen"/>ther ſide for the leaf, and ſo make the ſame to meet in the baſe point in form of an Eſ<g ref="char:EOLhyphen"/>chocheon. Some do hold the beſt time of this graffing to be about the midſt of <hi>June,</hi> or few days before or after; and ſome about the twelfth or fourteenth of <hi>June,</hi> but you ſhall finde out the beſt time of all for this practice by the ſappineſs of the Tree when you ſlit the ſame, and by the ſmooth and eaſie divi<g ref="char:EOLhyphen"/>ding
+<pb n="102" facs="tcp:115421:60"/>
+of the Bark from the Tree. If your bud take well, then muſt you cut off the ſtock or branch whereon you have thus graffed about the end of <hi>December</hi> a ſhaftment about the bud, and when the bud hath afterwards given a ſufficient ſhoot, then may you take off the branch or body whereon you graffed cloſe at the bark of the bud, ſloping the ſame upward with your knife: When you go about this work chuſe a fair, milde and temperate day, and ſhun all rainy and windy weather. Note alſo, that after you have taken off your buds, and un<g ref="char:EOLhyphen"/>till you have ſitted them in their ſtock or branch, you muſt lay them in a ſawcer of fair water to keep them moiſt,
+<pb n="103" facs="tcp:115421:60"/>
+and graff them as ſpeedily as you may. Cut the bands in ſunder in the backſide a<g ref="char:EOLhyphen"/>bout three weeks or a moneth after you have graffed; cloſe it at the firſt with wax beſides the bands; let the ſchocheon be rather a little too big then any thing too little, eſpecially at the bottom for his place, be<g ref="char:EOLhyphen"/>cauſe it will ſhrink, and be ſure you cloſe your ſchocheon well at the bottom; and ſo likewiſe in the graffing of a Cion. By this Art one ſmal twig well choſen, and being full of buds will ſerve to graff ſundry Trees, and it is not a<g ref="char:EOLhyphen"/>miſs to graff in divers places of the ſame Tree, if ſome ſhould miſs; for this graffing, though it take not, doth not any way impair or hurt the
+<pb n="104" facs="tcp:115421:61"/>
+Tree. Graff Apple-tree-buds upon Apple-tree-ſtocks, and ſo of Pear-trees; and Stone-fruit-buds upon Stone-fruit-ſtocks. <hi>Quaere</hi> of graffing one Roſe upon another, or upon any other Tree or branch. <hi>Quaere,</hi> if the bud would not be graffed in a ſhoot of the ſame year. In ſtones Fruit it is thought better to graff upon a ſhoot of three years old at the leaſt; but in Pear-trees or Apples you may graff this way upon a ſhoot of one year. Prepare your ſtock firſt, and preſently apply the bud; for it is a rule in all graffing what<g ref="char:EOLhyphen"/>ſoever, the ſooner that you cloſe them, the more ready they will be to knit together, even as a piece of fleſh that is newly cut, being preſently
+<pb n="105" facs="tcp:115421:61"/>
+bound up will heal more ſpee<g ref="char:EOLhyphen"/>dily, whilſt the vital ſpirits be yet warm.</p>
+            </div>
+            <div type="part">
+               <head>76. <hi>How to ſow ſufficiently in the wain or encreaſe of the Moon, notwithſtanding the unſeaſonableneſs of the wea<g ref="char:EOLhyphen"/>ther.</hi>
+               </head>
+               <p>It is a common received opinion at this day, that it is neceſſary to ſow all ſeeds which you would have to run to ſeed again in the encreaſe of the Moon, except Beans and Peaſe, which muſt be ſowed in the wane of the Moon, the nearer the change the better; and ſo likewiſe to ſow all ſuch ſeeds as you would have to bring large roots, and not to run to ſeed
+<pb n="106" facs="tcp:115421:62"/>
+in the wane of the Moon, as Parſenips, Carrets, Radiſh, and generally all Pot-hearbs; now if either the wane or en<g ref="char:EOLhyphen"/>creaſe prove ſo wet and ſhowry, or ſo cold and froſty that you cannot conveniently ſow your ſeeds in their due ſeaſon, then mingle well to<g ref="char:EOLhyphen"/>gether each ſeed with a ſuffi<g ref="char:EOLhyphen"/>cient quantity of fine and rich mold, and leave them ſo to<g ref="char:EOLhyphen"/>gether in pots, pans or diſhes, till you finde apt weather to ſow them abroad; and ſo you ſhall not be forced to loſe any ſeaſon at all. <hi>Quaere</hi> if all theſe pots or pans were ſet in a ſtove or other warm place, if ſo the ſeed would not be much forwarder then if they had been ſcattered abroad. Or elſe you may ſow them, the
+<pb n="107" facs="tcp:115421:62"/>
+earth being moiſt, ſo as you provide ſufficient ſtore of dry mold or earth to cover the ſeeds.</p>
+            </div>
+            <div type="part">
+               <head>77. <hi>How to have Garden Peaſe or French-Beans to grow without the help of ſticks or poles.</hi>
+               </head>
+               <p>Set one row of Beans, and another of Peaſe ſome five or ſix inches aſunder, and the Bean ſtalks will outgrow the Peaſe, and be ſtrong e<g ref="char:EOLhyphen"/>nough to ſupport the Peaſe; your French Beans you may prick round about your Trees in your Orchard, ſuffering them to climb up by the bo<g ref="char:EOLhyphen"/>dies, and if need be you may binde them to the trees with ruſhes or ſome ſuch gentle bands.</p>
+            </div>
+            <div type="part">
+               <head>78. <hi>How to deſtroy weeds, worms, ruſhes, &amp;c. as alſo to enrich any paſture or arable ground, and perhaps to forward the Crop thereof.</hi>
+               </head>
+               <p>This is done firſt by plow<g ref="char:EOLhyphen"/>ing the ground twice, and then by ſowing of the waſte Sopeaſhes in ſome reaſonable quantity upon the ground af<g ref="char:EOLhyphen"/>ter it is ſown with grain in the winter time; two load or three load of them will ſerve an acre of ground very richly: <hi>quaere,</hi>
+                  <note place="margin">Peaſe and beans for<g ref="char:EOLhyphen"/>warded.</note> what effects will follow in the forwarding of Peaſe or any other grain or pulſe, if the ſame be beſtowed upon ground every two moneths;<note place="margin">Weeding of Woad ſaved.</note> If this fall out, then imagine how profitable it were for all ſuch
+<pb n="109" facs="tcp:115421:63"/>
+as ſow any ſtore of Woad; for by this means they may ſave an infinite charge in the weeding thereof, which now they cannot avoid; ſome think that ſalt is of equal force with ſope-aſhes in all theſe purpoſes; and that two buſhels will ſuffice for an acre of ground, being mingled with the grain in the ſowing; and that thereby you may hav yearly a rich crop of Wheat in a barren ground. <hi>Quaere,</hi>
+                  <note place="margin">Broom and Fern de<g ref="char:EOLhyphen"/>ſtroyed.</note> if Broom or Fern may be deſtroyed by this mean.s I make no doubt of Broom if the ground were plowed and then the aſhes ſtrewed there<g ref="char:EOLhyphen"/>on; there is no doubt but that theſe aſhes will alſo be very neceſſary for the enriching of Garden grounds.</p>
+            </div>
+            <div type="part">
+               <head>79. <hi>How to ſtay the bleeding of any Vine.</hi>
+               </head>
+               <p>This is done by binding the ordure of a man that is ſomewhat dry or ſtiff in a lin<g ref="char:EOLhyphen"/>nen cloth, cloſe to the place where it bleedeth, with ſome packthread or other bands; this I learned of an expert Gardiner. <hi>Quaere</hi> of the drop<g ref="char:EOLhyphen"/>ing of melted brimſtone upon the place, or wax and Turpen<g ref="char:EOLhyphen"/>tine, Pitch, Roſin and ſuch like. Alſo if you fear it with a hot iron, and drop tallow thereon, and then binde the bark hard with divers folds of cord or Packthread about, this will ſtay the bleeding thereof; experienced <hi>per</hi> Mr. <hi>Hill.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>80. <hi>How to have great and large Musk-mellons, Cucumbers, Pompeons, Gooſeberries. &amp;c.</hi>
+               </head>
+               <p>When your Pompeons are as big as little apples,<note place="margin">Nipping of the young ſhoots.</note> then nip off all thoſe young ſhoots that grow beyond them, by which means a Gentlewoman of her own experience did aſſure me,<note place="margin">Pompeons.</note> that ſhe had Pom<g ref="char:EOLhyphen"/>peons as big as a groſs woman in the waſte; the ſame may be done in Cucumbers, and Musk-mellons, as ſoon as they are grown to ſome little bigneſs.<note place="margin">Goosber<g ref="char:EOLhyphen"/>ries.</note> So likewiſe by nip<g ref="char:EOLhyphen"/>ping off the tops that grow beyond the Goosberries pre<g ref="char:EOLhyphen"/>ſently after they are knit, ſhe had exceeding great Goos<g ref="char:EOLhyphen"/>berries. <hi>Quaere</hi> of the like
+<pb n="112" facs="tcp:115421:65"/>
+practice in Apples, Pears, Cherries,<note place="margin">Apples, Pears, Cherries, Grapes to grow great.</note> Plums, Peaches, Grapes, <hi>&amp;c. Quaere</hi> alſo if there be any uſe of this ſecret in Flowers. Some commend the taking away of all the Runners except two or one from every pompeon,<note place="margin">Pompeon.</note> where<g ref="char:EOLhyphen"/>by more ſap may be convey<g ref="char:EOLhyphen"/>ed into the Fruit.</p>
+            </div>
+            <div type="part">
+               <head>81. <hi>How to deſtroy Fern or Broom.</hi>
+               </head>
+               <p>So ſoon as it is ready for the Sithe or Hook, cut it down, and continue this pra<g ref="char:EOLhyphen"/>ctice two or three years toge<g ref="char:EOLhyphen"/>ther, and in the end, the ſap wanting iſſue will choak the root; according to that opi<g ref="char:EOLhyphen"/>nion it is likewiſe held in the deſtruction of a Tree, by
+<pb n="113" facs="tcp:115421:65"/>
+taking away all the ſprouts and buds from time to time, as they put forth at any of the branches. <hi>Quaere</hi> if this pra<g ref="char:EOLhyphen"/>ctice will not deſtroy Broom.</p>
+            </div>
+            <div type="part">
+               <head>82. <hi>How to make the leaves, ſtalks and roots of Artichokes to be good food for the Table.</hi>
+               </head>
+               <p>The roots of all young Artichokes, as I have heard ſome Travellers report, be in a manner as ſweet and deli<g ref="char:EOLhyphen"/>cate as the Potatoe root, and therefore to have ſtore of them, I think it requiſite to ſow whole beds or borders of them; and if you will make uſe of the leaves, you muſt whilſt they are young, <hi>viZ.</hi> before they do carry any ap<g ref="char:EOLhyphen"/>ples,
+<pb n="114" facs="tcp:115421:66"/>
+binde all the leaves in one maſs together, and then bury them in the ground, and ſo they will become both ſweet and tender; and this is a practice very uſual in <hi>Bar<g ref="char:EOLhyphen"/>bary.</hi> Or if by cutting down the ſtalks you prevent the bearing of their fruit, you ſhall have their ſtalks full of ſtrength and food, and to make pleaſant Sallets withal, and that oftentimes in one year. Alſo if you cut them down preſently after their bearing, you ſhall have young Artichokes towards Michael<g ref="char:EOLhyphen"/>mas, if time or ſeaſon be any thing mild and temperate.</p>
+            </div>
+            <div type="part">
+               <head>83. <hi>How to make flowers double, as alſo to enlarge either fruits or flowers, and to make young trees to proſper well.</hi>
+               </head>
+               <p>This is thought to be beſt performed by often removing the young Plant (and as ſome will have it, in the encreaſe of the Moon, or rather juſt at the full) and ſo likewiſe of Dwarf-trees. <hi>Quaere</hi> whether the removing of a ſtock be<g ref="char:EOLhyphen"/>fore it be graffed, or after it be graffed, be the better way to make the Tree to proſper, and whether it be not good for the encreaſe thereof, to remove and tranſplant it of<g ref="char:EOLhyphen"/>ten whilſt it is young.</p>
+            </div>
+            <div type="part">
+               <head>84. <hi>How to defend a whole Or<g ref="char:EOLhyphen"/>chard, or any particular Tree from the froſts of April or May, whereby the bloſ<g ref="char:EOLhyphen"/>ſoms may knit without any danger.</hi>
+               </head>
+               <p>If you can happen upon a place defended, either by a hill, or ſome rows of high trees al<g ref="char:EOLhyphen"/>ready growing, from the North and Eaſt winds, then ſhall you not need to ſhew any other art, for that your Or<g ref="char:EOLhyphen"/>chard having this defenſative, is very likely to prove fruitful if there be no other impedi<g ref="char:EOLhyphen"/>ment in the ſoil. But if you cannot be ſo happy to finde a place ſo guarded to your hand, then plant on the Eaſt
+<pb n="117" facs="tcp:115421:67"/>
+and North ſide thereof a Quickſet-hedge of Hathorne, which will grow to a reaſon<g ref="char:EOLhyphen"/>able height in a ſhort time, without the which you may alſo ſet a ranck or two of Elms, Aſhes, or Sycamore, to break off the cold blaſts from your Trees. But if by chance you have any wall al<g ref="char:EOLhyphen"/>ready built, with two ſides a<g ref="char:EOLhyphen"/>gainſt the ſame wind, that will be a ſpecial good corner to ſet an Apricock-tree there<g ref="char:EOLhyphen"/>in. Or if you are deſirous to defend the bloſſoms of ſome few Trees from thoſe cold winds, whereby to have ſtore of fruit when others ſhall fail, then muſt you ſtrein Can<g ref="char:EOLhyphen"/>vas on the Eaſt and North ſide of them, until all cold weather be over-blown,
+<pb n="118" facs="tcp:115421:68"/>
+and ſo you may have Cher<g ref="char:EOLhyphen"/>ries, Peaches, Apricocks and all other early fruit, when the reſt of your Neighbors may happen to want: And this Canvas will be afterwards as ſerviceable for the Painter as any other, and ſo you ſhall reap great profit with no loſs at all. But this practice fit<g ref="char:EOLhyphen"/>te than Orchard that conſiſt<g ref="char:EOLhyphen"/>eth of Dwarf trees moſt ex<g ref="char:EOLhyphen"/>cellently, as alſo a Garden of dainty Flowers that may be couched together under ſuch an Artificial wall. But if your Plum-trees do grow a<g ref="char:EOLhyphen"/>gainſt a wall, then may you hang a ſheet or piece of can<g ref="char:EOLhyphen"/>vas only over them every morning and evening.</p>
+            </div>
+            <div type="part">
+               <head>85. <hi>How to make the beſt choice of any Cions whatſoever.</hi>
+               </head>
+               <p>Chuſe that twig which you ſee to put forth as many or more buds then the reſt of the Tree, and which ſeemeth beſt to proſper in your eye.</p>
+            </div>
+            <div type="part">
+               <head>86. <hi>How to recover an old Bor<g ref="char:EOLhyphen"/>der of Tyme or Hyſop that is almoſt dead.</hi>
+               </head>
+               <p>You muſt cut the ſame down very low at a conveni<g ref="char:EOLhyphen"/>ent time, and if you can after ſome preſent rain or againſt a ſhowre, and then earth the ſame preſently, by ſifting earth all over the borders with a long and flat Sive, made for that purpoſe, which being
+<pb n="120" facs="tcp:115421:69"/>
+in ſome meaſure anſwerable to the breadth of your bor<g ref="char:EOLhyphen"/>ders, will be much apter for this purpoſe, then thoſe round Sives that are uſually imploy<g ref="char:EOLhyphen"/>ed in this work, whereby much earth falleth into the Alleys of your Garden.</p>
+            </div>
+            <div type="part">
+               <head>87. <hi>How to know the juſt time when to remove or tranſplant any Tree.</hi>
+               </head>
+               <p>When the leaves begin to fade colour, and wax yellow, then is the fitteſt time of all other to remove them, if you would have them to root well, and bear ſpee<g ref="char:EOLhyphen"/>dily.</p>
+            </div>
+            <div type="part">
+               <head>88. <hi>How a man may have a ſpeedy bearing Orchard, but the trees not beautiful, or to have fair and goodly Trees, that will not bear Fruit ſo ſoon.</hi>
+               </head>
+               <p>Prick in the kernels of Pip<g ref="char:EOLhyphen"/>pins, Pears or other Fruit in your Nurſery (which Nurſe<g ref="char:EOLhyphen"/>ry would be always a worſe ground then the Orchard wherin you muſt afterward re<g ref="char:EOLhyphen"/>move them; for otherwiſe your trees will not proſper ſo well when they are tranſplanted:) and after they be of three years growth, <hi>viZ.</hi> about the bigneſs of your little finger, you may graff them either in the ſtock or in the bud; theſe young graffed Trees being af<g ref="char:EOLhyphen"/>terward
+<pb n="122" facs="tcp:115421:70"/>
+removed into your Orchard, conſiſting of a good fat mold, will bear fruit very ſpeedily, but thereby they will be hindered from being fair and mighty Trees, like a woman that beginneth ſoon to teem, whereby her growth and ſpreading is much hinder<g ref="char:EOLhyphen"/>ed; and this is an approved way to have a ſpeedy Or<g ref="char:EOLhyphen"/>chard. But if you deſire to have an Orchard conſiſting of fair and beautiful Trees, but three or four years more back<g ref="char:EOLhyphen"/>ward in bearing, then plant your Orchard at the firſt with Crabſtocks, and when they are able in any one year to put forth a ſhoot of two foot long at the leaſt, then are they fit to be graffed, and not before; theſe ſtocks being thus graffed
+<pb n="123" facs="tcp:115421:70"/>
+will ſpread into goodly high and large Trees, but not bear ſo ſoon as your other Trees any ſtore of fruit. And thus you may make your own e<g ref="char:EOLhyphen"/>lection which manner of Orchard ſhall like you beſt.</p>
+            </div>
+            <div type="part">
+               <head>89. <hi>How to make branches or Arms of Trees to root.</hi>
+               </head>
+               <p>If any Bough of a Tree do put forth a great number of warts or little knots in any place, ſaw off that Arm or Bough one inch below thoſe warts, and prick it into the ground, and it will root and become a Tree.</p>
+            </div>
+            <div type="part">
+               <head>90. <hi>How divers Trees and Hedges are kept backwurd by the ignorance of him that planteth them only.</hi>
+               </head>
+               <p>When a Privie Hedge is laid too late, as in <hi>February</hi> or <hi>March,</hi> it will never come forward or proſper greatly; Yea, I have heard a man of good experience affirm, that if this year in <hi>March</hi> a Privie Hedge be laid, and another about Alhallontide the next year, that the later hedge in ſeven years ſpace, will gain three years growth or ſpread<g ref="char:EOLhyphen"/>ing of the firſt; the like is to be thought of all Trees.</p>
+            </div>
+            <div type="part">
+               <head>91. <hi>How to make the body of a Tree, or any young Cions to grow full of ſquares or Lo<g ref="char:EOLhyphen"/>ſanges.</hi>
+               </head>
+               <p>Slit a tender young ſtock, or a ſhoot of ſix years, when it is of ſome reaſonable length, about one finger or ſix inches in length, and in the midſt of the ſlit over<g ref="char:EOLhyphen"/>thwartwiſe place a ſhort ſtick that by thruſting out of the ſides may make the form of a Loſange, the inſide whereof muſt be covered with tar, and in time the bark will cover the ſame, and thus you may have a Tree full of Loſanges, and one ſquare made contrary to the other, whereby your work may ſeem the ſtranger.</p>
+            </div>
+            <div type="part">
+               <head>92. <hi>How to bring Fruit into any ſhape, or to grow within molds.</hi>
+               </head>
+               <p>This is done by clapping of party molds having vents up<g ref="char:EOLhyphen"/>on young Pears, Apples, <hi>&amp;c.</hi> which have ſuch forms and portraitures within as you like beſt; I think leaden molds, or molds of burnt clay to be the beſt and chea<g ref="char:EOLhyphen"/>peſt of all others. You may alſo put in young bunches of Grapes into little ſtone pots or glaſſes made of purpoſe, having vents in the top (for I think otherwiſe they will di<g ref="char:EOLhyphen"/>ſtil with the heat of the ſun.) <hi>Quaere</hi> of putting of water in the molds, ſo as it touch not the fruit, to make the Grapes
+<pb n="127" facs="tcp:115421:72"/>
+to ſwell. <hi>Quaere,</hi> if leaden molds be not the beſt of all other to ripen Grapes; <hi>quaere</hi> alſo if theſe molds being well ſured towards Winter when the Fruit is ripe, if ſo the Fruit will not hang a long time upon the Tree notwith<g ref="char:EOLhyphen"/>ſtanding all froſty weather.</p>
+            </div>
+            <div type="part">
+               <head>93. <hi>The beſt manner of binding or cloſing of any new graffed Cions.</hi>
+               </head>
+               <p>Firſt let in the Cions of a good depth into the Stock, ſo as if it take not in one place it may take in another, then bind the ſame about with ſuch bands as they uſe to bind Brawn, and cover the band and ſlit all over with wax (green wax I have ſeen to take
+<pb n="128" facs="tcp:115421:73"/>
+good proof this way) for loam will chop in dry weather, and let in both winde and rain which wax will not; and loam by its hardneſs bindeth in the ſap too much, which wax doth not hinder at all by rea<g ref="char:EOLhyphen"/>ſon of its ſoftneſs and pliant<g ref="char:EOLhyphen"/>neſs in warm weather, through which, even the buds by help of the ſun do eaſily break.</p>
+            </div>
+            <div type="part">
+               <head>94. <hi>To backward Flowers, as Gilliflowers, Pincks, Straw<g ref="char:EOLhyphen"/>berries,</hi> &amp;c.</head>
+               <p>
+                  <hi>Quaere,</hi> if by covering them over with ſome earthen pan with wet ſtraw or hay about it, they will not be much hinder<g ref="char:EOLhyphen"/>ed; removing the pot but one or two days in the week to take the ſun, leaſt they wither away.</p>
+            </div>
+            <div type="part">
+               <head>95. <hi>Neceſſary Obſervations to make either outlandiſh or Engliſh ſeeds to grow the better.</hi>
+               </head>
+               <p>If you can take the advan<g ref="char:EOLhyphen"/>tage of a hard froſty winter, which hath mellowed the ground well, and made the earth to crumble; and then if it be alſo dry in <hi>March,</hi> that the mold may fall to fine powder in the digging there<g ref="char:EOLhyphen"/>of, and that your ſeeds be ſowed and well covered be<g ref="char:EOLhyphen"/>fore it rain (if the infertility of the ground hinder not) you ſhall be in good poſſibility of a rich crop. I did ſow ſome Staves-acre in a place whoſe mold was caſt up in wet wea<g ref="char:EOLhyphen"/>ther, and conſiſting of earth
+<pb n="130" facs="tcp:115421:74"/>
+and clay, it did ſo clod toge<g ref="char:EOLhyphen"/>ther, as that the ſeeds which were ſowed the 26 of <hi>March</hi> did not appear above ground until the latter end of <hi>May,</hi> and then alſo they came very thinly. I had the like ſucceſs in the ſame earth with Arti<g ref="char:EOLhyphen"/>choke ſeeds, whereof the hundreth one came not up (although peradventure I might be abuſed in the ſeeds, which is an ordinary practice in theſe days, with all ſuch as follow that way, either to de<g ref="char:EOLhyphen"/>liver the ſeeds which they ſell mingled with ſuch as are old and withered, or elſe with<g ref="char:EOLhyphen"/>out any mingling at all to ſell ſuch as are ſtark naught) I would there were ſome fit puniſhment deviſed for theſe petit coſeners, by whoſe
+<pb n="131" facs="tcp:115421:74"/>
+means many poor men in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> do oftentimes loſe, not onely the charge of their ſeed, but the whole uſe &amp; benefit of their ground, after they have beſtowed the beſt part of their wealth upon it. Cheapſide is as full of theſe lying and forſwearing Huſwives as the Shambles and Gracechurch-ſtreet are of that ſhameleſs crew of Poulters wives, who both daily, &amp; moſt damnably, yea upon the Sabath day it ſelf, run headlong into wilful perjury, almoſt in every bar<g ref="char:EOLhyphen"/>gain which they make, ſelling Cocks for Capons when they have pared their combs, and broken off their ſpurs; old Hens for Pullets, when they have broken their pinions and breſt-bones; Buntings for
+<pb n="132" facs="tcp:115421:75"/>
+Larks, when young Dames go to market, bruiſed Rab<g ref="char:EOLhyphen"/>bits for ſound, being in their skins, and yet they will have their Caſes too except the bar<g ref="char:EOLhyphen"/>gain be the wiſelier made; and ſtale Fowl for freſh and new, or at the leaſt both ſorts mingled together, maintaining their ſales with ſuch bold counte<g ref="char:EOLhyphen"/>nances, and cutting ſpeeches, with ſuch knaviſh practices, and ſuch forlorn Conſciences, as that they have both driven away many honeſt Matrons from their ſtals, and ſo cor<g ref="char:EOLhyphen"/>rupted a number of young maiden Servants with their bold and lewd lying, with their deſperate ſwearing and forſwearing, that they have made all plain and modeſt ſpeech, yea all kind of Chriſti<g ref="char:EOLhyphen"/>anity
+<pb n="133" facs="tcp:115421:75"/>
+to ſeem baſe and ruſtical unto them. I would inveigh more bitterly againſt this ſin, if my text would bear it; but now I will leave it unto the ſe<g ref="char:EOLhyphen"/>veral Preachers of the Pariſhes where they dwel, who can pre<g ref="char:EOLhyphen"/>ſent this matter more ſharp<g ref="char:EOLhyphen"/>ly, and with leſs offence then I may; I pray God, that ei<g ref="char:EOLhyphen"/>ther by them, or by the Ma<g ref="char:EOLhyphen"/>giſtrate, or by one means or o<g ref="char:EOLhyphen"/>ther, this great diſhonor of God and of Religion may be ſpee<g ref="char:EOLhyphen"/>dily removed amongſt us. But to return to our firſt ſubject, I think it very neceſſary to ſow as early as the coldneſs of the Spring will give you leave. I ſowed Anni eeds and Feni<g ref="char:EOLhyphen"/>greke the 26 of <hi>March,</hi> 1594. and they proſpered exceeding well, and yet I would have
+<pb n="134" facs="tcp:115421:76"/>
+ſowed more early, but that the beginning of <hi>March</hi> was ſo ſhowring, that I could not garden any ſooner; theſe Anniſeeds began to flower a<g ref="char:EOLhyphen"/>bout the midſt of <hi>June,</hi> at which time alſo the Fenigreke was full of cods. <hi>Quaere</hi> if the Staves acre, Artichoke-ſeeds, and Comin-ſeeds which I then ſowed alſo, would not have proved better if they had been ſteeped for ſome reaſonable time in water. I do finde by experience that Anniſeeds and Fenigreke delight in ground that is enriched with Sope aſhes; and Cominſeed, as I think, would either be ſteeped in ſalt water before it be ſowed, or elſe ſome little ſtore of ſalt would be mingled in the earth, for I found it to
+<pb n="135" facs="tcp:115421:76"/>
+fail me in divers other trials which I made without ſalt; and yet if I had not over-ſalt<g ref="char:EOLhyphen"/>ed the ground, I think it would have proved much better. <hi>Quaere</hi> of ground enriched with horn for outlandiſh ſeeds, becauſe I have been credibly informed that they will make Parſely ſeeds to diſcloſe them<g ref="char:EOLhyphen"/>ſelves in three weeks. In <hi>March</hi> 1595. I ſowed Engliſh Wormſeeds (a ſeed much like if it be not the ſame, to that which is called <hi>Semen Ameos</hi>) in ground enriched with horn, and it grew very ranck, and full of bloſſoms.</p>
+            </div>
+            <div type="part">
+               <head>96. <hi>A neceſsary obſervation in the removing of young Plants of Musk-mellons, Pompeons &amp;c.</hi>
+               </head>
+               <p>The younger that you ſet
+<pb n="136" facs="tcp:115421:77"/>
+them, being ſtrong enough to be removed, I think they will proſper the better; for the ſap will ſooner riſe, and be able to feed them.</p>
+            </div>
+            <div type="part">
+               <head>97. <hi>How to graff upon one root of Carnations all manner of Carnations, Gilliflowers, Pinks, &amp;c.</hi>
+               </head>
+               <p>Pull off the top (ſome two or three inches in length) of every branch, and in their places put the like tops of flowers of contrary colours, thruſting them in as cloſs as you can, and then bind them a<g ref="char:EOLhyphen"/>bout with ſome thred, and they will bring forth the like flowers as thoſe roots did bear from whence they were taken. This of Mr. <hi>Jarret</hi> the Chy<g ref="char:EOLhyphen"/>rurgeon in <hi>Holborn.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>98. <hi>How to encreaſe the bearing of any Gilliflower or Carna<g ref="char:EOLhyphen"/>tion root exceedingly.</hi>
+               </head>
+               <p>Wreath every ſtalk a little in that place which you mean to cover with earth, then lay your earth thereon, and by this means every Slip will bring forth great ſtore of Flowers. You may alſo dwarf them into little pots, being ſlit on the ſides, and when they have taken ſuffi<g ref="char:EOLhyphen"/>cient root, you may cut them off from the old root, and ſo of every ſlip you ſhall have a bearing root the ſame year. This alſo of Mr. <hi>Jarret</hi> the Chyrurgeon.</p>
+            </div>
+            <div type="part">
+               <head>99. <hi>How to encreaſe the double or ſingle Stock-Gilliflowers.</hi>
+               </head>
+               <p>Nip off the tops of them before they bud, at ſome rea<g ref="char:EOLhyphen"/>ſonable length, and beat the ſtalk toward the bottom with the back of a knife, and then prick them into the ground, and cloſe the earth well unto them. I have heard that the double Stock-gilliflower doth never yield any ſeed.</p>
+            </div>
+            <div type="part">
+               <head>100. <hi>How to dwarf any man<g ref="char:EOLhyphen"/>ner of Fruit Tree, ſo as your Orchard ſhall bear fruit the firſt year.</hi>
+               </head>
+               <p>In the beginning of <hi>Janu<g ref="char:EOLhyphen"/>ary,</hi> or at the leaſt before the ſame moneth expired, chuſe a
+<pb n="139" facs="tcp:115421:78"/>
+ſhoot of two years old, and if you can ſuch a one as hath ſome ſmall ſprigs about that part of the branch which ſhall reſt in the midſt of the pot, for they help greatly in the rooting; then croſs-hack near thoſe ſprigs, about ſome two inches in length round about the bark with the edge of your knife, and then let it in at a ſlit, which of purpoſe muſt be made in the pot, wherein you mean to dwarf; fill the ſame full of earth, and if occaſion ſerve, now and then you may water the ſame; hang this pot either by wiers firm to the body of the Tree, or elſe drive in a ſtake near the ſhoot and place your pot thereon, and let the ſame continue one whole year before you cut it
+<pb n="140" facs="tcp:115421:79"/>
+off from the old Tree. Note that the apteſt pots for this purpoſe be ſuch as hold ſugar loaves, having ſlits of an inch in bigneſs at one ſide thereof from the bottom to the very top, and having feet made unto them whereon they may ſtand (wherein they differ from the ſugar pots) and it will not be amiſs if theſe pots conſiſt of two parts, whereby you may take them from the earth, without breaking of the earth, when you would plant them in the ground; and ſo the ſame pots will ſerve often. Theſe Dwarf-trees will bear fruit the firſt year. See <hi>ante num</hi> 83. how to defend ſuch an Orchard in blooming time from froſts. Alſo if theſe Trees be ſet in rancks, the
+<pb n="141" facs="tcp:115421:79"/>
+Walks being well gravelled, leaving onely round rings of earth about the bodies of each, of ſix inches in breadth, where you may place ſome ſtraw or fern if you fear the exceeding heat of Sol; by this means the Sun will make a ſtrong reflection upon the fruit to procure a ſpeedy ripening. <hi>Quaere</hi> of adding the gelly of horn diſſolved in lime-water to the roots of them to make them more forward. <hi>Quaere</hi> of lapping of thin ſheet-lead upon the bodies of your Trees to enforce the heat of the ſun upon them: You may chuſe ſuch a plat for this purpoſe, as is either naturally or artifi<g ref="char:EOLhyphen"/>cially defended from the North and Eaſt winds, by hills, walls, pails, or hedges,
+<pb n="142" facs="tcp:115421:80"/>
+but ſo as the Sun be not kept alſo from them.</p>
+            </div>
+            <div type="part">
+               <head>101. <hi>How to multiply the double Honeyſuckle, Jeſamie.</hi>
+               </head>
+               <p>Lay a number of their ſtalks or brances in the earth, and each ſprig will become a root the next year, and ſo you may ſtore your ſelf of any ſlender Plant, either to ſell or give to your friends, and by this means you may make one root to run at what length you pleaſe in time, laying the ſhoot into the earth, as it groweth to any reaſonable length.</p>
+            </div>
+            <div type="part">
+               <head>102. <hi>How to have a Vineyard to bear Grapes the firſt year.</hi>
+               </head>
+               <p>Let ſuch ſhoots as are moſt
+<pb n="143" facs="tcp:115421:80"/>
+likely to bear Grapes, run through the ſides of pretty big baskets, opening the twigs to make paſſage for the bran<g ref="char:EOLhyphen"/>ches, and filling the baskets full of earth in cutting time. <hi>Quaere,</hi> if there need to be any wreathing of the branch, or hacking of the bark as be<g ref="char:EOLhyphen"/>fore, <hi>num.</hi> 100. in the dwarf<g ref="char:EOLhyphen"/>ing of Trees to make them root the ſooner; Theſe baſ<g ref="char:EOLhyphen"/>kets may afterwards be pla<g ref="char:EOLhyphen"/>ced in any plat where you mean to make a Vineyard, and they will bear the firſt year; the reaſon is apparent. Note if your Vine whereon you dwarf do run upon a frame, then you may eaſily place the basket upon the frame; and if they run upon a wall, then may you hang
+<pb n="144" facs="tcp:115421:81"/>
+the basket by the ears to the wall. Some do uſe pots with holes bored through both the ſides of them; But I do hold the baskets the better way, becauſe they will ſoon rot be<g ref="char:EOLhyphen"/>ing put into the ground, whereby the earth needeth not to be looſened from the roots, neither will they take ſo ſtrong a heat in the Summer time to parch them away be<g ref="char:EOLhyphen"/>fore they be fully rooted, as the ſtone pot will do.</p>
+            </div>
+            <div type="part">
+               <head>103. <hi>How to graff in a dead trunck, or ſtock of a Willow-tree.</hi>
+               </head>
+               <p>Put a Willow-ſtock, (<hi>quaere</hi> if it muſt not be green and freſh) into a furrow of earth made for that purpoſe,
+<pb n="145" facs="tcp:115421:81"/>
+make clefts or ſlits in the ſame fit for ſuch branches of the Mulberry-tree as you will graff therein; they muſt be made like wedges, joyning ſap to ſap, then cloſe up the clifts and defend them from wea<g ref="char:EOLhyphen"/>ther, and then put all the ſtock of the willow under the fur<g ref="char:EOLhyphen"/>row; this is borrowed out of <hi>Celſus.</hi> And one skilful in planting told me that no Tree will periſh that is planted in this manner. After the firſt &amp; ſecond year paſt thou mayſt alſo ſaw or cut the trunck in ſunder between the Plants, and tranſplant them in pla<g ref="char:EOLhyphen"/>ces convenient. <hi>Ex vetere lib. manuſcrip. Th. Gaſc.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>104. <hi>To help a tree whoſe ſtock or fruit beginneth to rot.</hi>
+               </head>
+               <p>When this happeneth, it is a ſign that the bark of the Tree is ſick, and therefore ſlit the ſame with a knife; and when the bad humor is ſuf<g ref="char:EOLhyphen"/>ficiently ſpent, dung the Tree well, and cloſe the wood with tempered clay. <hi>Ibid.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>105. <hi>That the Peach-ſtone may have no kernel.</hi>
+               </head>
+               <p>Graff a Cions of a Peach-tree upon a Nut-tree. <hi>Ibid.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>106. <hi>To make a Peach-tree bring forth Pomgranates.</hi>
+               </head>
+               <p>Water the ſame with Goats
+<pb n="147" facs="tcp:115421:82"/>
+milk three days together, when it beginneth to flower. <hi>Ibid. Quis hoc credat niſi ſit pro teſte vetuſtas?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>107. <hi>To have great ſtore of Sage ſpeedily.</hi>
+               </head>
+               <p>A Monk told me that if thou ſow the ſeed of Sage well ripe, as thou ſoweſt other ſeeds in good earth that it will multiply exceedingly. <hi>Ibid.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>108. <hi>To have ſeveral grapes growing upon one branch, and and ſo of Roſes, Gilliflowers, &amp;c.</hi>
+               </head>
+               <p>Plant a white and a red Vine cloſs together, and being both rooted, ſet a branch of ei<g ref="char:EOLhyphen"/>ther of them together in the
+<pb n="148" facs="tcp:115421:83"/>
+top, ſloping them upward un<g ref="char:EOLhyphen"/>to the pith; joyn them ſap to ſap, binde them together, wrapping a ſupple linnen cloth about them, and at three days end, moiſten them with water till it burgeon. <hi>Quaere,</hi> if after a convenient time one of the roots may not be taken away, to make it ſeem the more ſtrange. <hi>Quaere</hi> if this may not alſo be performed in other Fruit-trees, Roſes, Gil<g ref="char:EOLhyphen"/>liflowers, <hi>&amp;c. Ibid.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>109. <hi>How to have trees of Time, Hyſop, Lavender, Roſemary,</hi> &amp;c.</head>
+               <p>
+                  <hi>Quaere</hi> if by ſome one or other of the ways of graffing, the ſame may not be perform<g ref="char:EOLhyphen"/>ed. <hi>Rocellae, ruta, &amp; caules in
+<pb n="149" facs="tcp:115421:83"/>
+arbores mutantur; teſte</hi> Carda<g ref="char:EOLhyphen"/>no in lib. de rer. variet. p. 225.</p>
+            </div>
+            <div type="part">
+               <head>110. <hi>How to keep Grapes upon the Vine till the Calends of</hi> January; <hi>and ſo of other fruit and flowers; as alſo to keep backward both fruit and flowers.</hi>
+               </head>
+               <p>
+                  <hi>Servantur in arbore, ſacculo ex papiro nostra circumpoſito. Card. in lib. de variet. rer.</hi> 224. <hi>Quaere,</hi> if an oiled paper will not perform this, eſpecially if the paper be oiled over often, as occaſion ſerveth, and the thred alſo oiled with it. <hi>Quaere</hi> alſo, if oyled papers, eſpecial<g ref="char:EOLhyphen"/>ly two or three double, or more, will not keep any fruit backward by defending the Sun from it, but then it will
+<pb n="150" facs="tcp:115421:84"/>
+be neceſſary (as I think) to give ſome vent by pin holes underneath, leaſt the heat of the Sun do burn up the fruit, and work a diſtillation upon it; let the thred alſo be well oyled or waxed, wherewith you tye your paper; If Lin-ſeed-oyl alone will not ſerve, mix ſome powdred Amber therewith in the boiling, ac<g ref="char:EOLhyphen"/>cording to that ſet down in my Book of Experiments; for this is an excellent ſecret, and to be applied many ways if it be true, and it ſeemeth very probable. This is a delicate device to defend Gilliflower pots in winter from the cold, and in Summer from the heat. <hi>Quaere,</hi> if a Bladder will not ſerve inſtead of an oiled pa<g ref="char:EOLhyphen"/>per. <hi>Quaere,</hi> if taking away
+<pb n="151" facs="tcp:115421:84"/>
+the bark almoſt round, or round, when the fruit is near ripe.</p>
+            </div>
+            <div type="part">
+               <head>111. <hi>How to make Pears, Apples, Plums, Grapes,</hi> &amp;c. <hi>to dry as they grow.</hi>
+               </head>
+               <p>Before they be fully ripe, wreath the ſtalk of every fruit, by this means the fruit want<g ref="char:EOLhyphen"/>ing nouriſhment will grow dry as it hangeth on the Trees. <hi>Ex veter. lib. manuſcrip. Th. Gaſc. Quaere</hi> of taking away the bark round about the branches that bear the fruit.</p>
+            </div>
+            <div type="part">
+               <head>112. <hi>How to deſtroy Caterpillers.</hi>
+               </head>
+               <p>Make a ring of tar towards the bottom of the Tree, then hang a bag full of Piſmires by
+<pb n="152" facs="tcp:115421:85"/>
+a cord in the top of the Tree, ſo as they may eaſily get out, and the Ants when they can<g ref="char:EOLhyphen"/>not get down by reaſon of the tar, rather then they will ſtarve for hunger, will eat up all the Caterpillers, <hi>per Lup<g ref="char:EOLhyphen"/>ton.</hi> 282.</p>
+            </div>
+            <div type="part">
+               <head>113. <hi>Secrets in Pompeons, Musk-mellons, Strawberries, and Artichokes, to make them proſper and grow great.</hi>
+               </head>
+               <p>Temper fat mold with cream, and therein prick your Pompeon-ſeeds, the mold be<g ref="char:EOLhyphen"/>ing in a pot or earthen pan; cover them in the night and in cold weather; and when it is warm, or during the ſun-ſhine uncover them, and when they are ſufficiently ſprung up to
+<pb n="153" facs="tcp:115421:85"/>
+make plants of, remove them into good ground, and they will grow to a monſtrous greatneſs. <hi>Probat. per</hi> Sir <hi>Tho. Challenor. Quaere</hi> if the ſame practice will not ſerve in Musk-mellons, Beans, Peaſe, <hi>&amp;c.</hi> The water wherein ſheeps dung hath been infuſed, will make Strawberries very great. And the Doze of Tanners well rotted in good earth will make rich ground to plant Ar<g ref="char:EOLhyphen"/>tichoke plants in; and when you have ſet your young plants, if you ſtrein a canvas over them, uncovering them onely in warm weather, and in the warmeſt part of the day, they will proſper exceeding<g ref="char:EOLhyphen"/>ly.</p>
+            </div>
+            <div type="part">
+               <head>114. <hi>To make Apricocks to pro<g ref="char:EOLhyphen"/>ſper well.</hi>
+               </head>
+               <p>Plant them againſt a wall that ſtandeth into the Eaſt, and on either ſide of the Tree place a Fir-pole that is ſome<g ref="char:EOLhyphen"/>what higher then the Tree, ſloping wiſe; on the top of the poles place a courſe cloth, or rather a Sear-cloth, which in the day time, or in the warmth of the day may be rolled up, or in the night or in cold wea<g ref="char:EOLhyphen"/>ther let down to cover all the Tree, as it were with a Pent<g ref="char:EOLhyphen"/>houſe; and in this manner your Tree will proſper ex<g ref="char:EOLhyphen"/>ceedingly; theſe clothes do alſo ſerve to keep off the froſts or cold winds when they are in bloſſom, until the fruit be
+<pb n="155" facs="tcp:115421:86"/>
+knit, at which time you muſt onely unfold your clothes in the warmth of the day, or when the Sun ſhineth, if the wind happen to be in any cold corner. A wooden pale may alſo ſerve inſtead of a brick<g ref="char:EOLhyphen"/>wall for the like purpoſe. This of <hi>And. Hill.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>115. <hi>To make Roſemary to pro<g ref="char:EOLhyphen"/>ſper exceedingly.</hi>
+               </head>
+               <p>Take of the dirt of the Highways, eſpecially in the midſt of them, where cattel have dunged and ſtalled moſt, make a bed thereof, and there<g ref="char:EOLhyphen"/>in plant your Roſemary. <hi>Quae<g ref="char:EOLhyphen"/>re</hi> of all other plants and flow<g ref="char:EOLhyphen"/>ers. <hi>Probat. per</hi> Mr. <hi>And. Hill</hi> in Roſemary, which he could never have to proſper in his
+<pb n="156" facs="tcp:115421:87"/>
+                  <hi>London</hi> Garden till he uſed this Experiment.</p>
+            </div>
+            <div type="part">
+               <head>216. <hi>To make trees to flouriſh wonderfully.</hi>
+               </head>
+               <p>Water them now and then with the Dregs of Beer or Ale. <hi>Per</hi> Mr. <hi>And. Hill. Quaere</hi> of applying the ſame to all Herbs and Flowers. <hi>Quaere</hi> of Saltpeter, or Sal Armoni<g ref="char:EOLhyphen"/>ack applied to the roots of Plants, being firſt well putri<g ref="char:EOLhyphen"/>fied or rooted in earth.</p>
+            </div>
+            <div type="part">
+               <head>117. <hi>How to make a clay ground fruitful.</hi>
+               </head>
+               <p>This is done by mixing of a reaſonable proportion of ſand with it, not that the ſand giveth any ſtrength to the ground, but that it open<g ref="char:EOLhyphen"/>eth
+<pb n="157" facs="tcp:115421:87"/>
+the clay, which is often<g ref="char:EOLhyphen"/>times ſo binding, that the grain is ſtarved therein be<g ref="char:EOLhyphen"/>fore it can break out: ſpeci<g ref="char:EOLhyphen"/>ally in a dry ſeaſon.</p>
+            </div>
+            <div type="part">
+               <head>118. <hi>Certain Obſervations for the enriching of ground.</hi>
+               </head>
+               <p>The River of Trent in <hi>Lincolnſhire</hi> is ſuffered once in ſeven years to overflow a great Marſh, whereby it carrieth as much Swarth as can ſtand upon the ground: <hi>Per Harſley</hi> my Neighbor at <hi>Biſhops-hall.</hi>
+               </p>
+               <p>A Gentleman having his Stable near his Vine,<note place="margin">Watering of Grapes.</note> had his Grapes exceeding great and pleaſant, by reaſon of the ſtale of his Horſes, that deſcended from his Stable to his Vine, and after turning his Stable into
+<pb n="158" facs="tcp:115421:88"/>
+Lodgings, the Vine began to ſtarve, and brought forth poor and hungry grapes. <hi>Per And. Hill.</hi>
+               </p>
+               <p>A Weſtern Gentleman by direction of my Book of Husbandry, ſteeped two years together his Barley for twelve hours in the Sea-water, and then ſowed the ſame, <hi>an.</hi> 1595 and 1596. and had a very plentiful crop. <hi>Quaere</hi> what ſoil. This of Mr. <hi>Andrew Hill.</hi>
+               </p>
+               <p>By my Coſin <hi>Duncombe,</hi> a neighbor of his ſteeped his Wheat in ſtale four and twenty hours, and ſowed the ſame in a ground conſiſting of ſand and lome, being very barren, and had great yield, <hi>anno</hi> 1596.</p>
+               <p>The Gall of a beaſt applied
+<pb n="159" facs="tcp:115421:88"/>
+to a young graffed Plant, maketh the ſame to ſhoot for<g ref="char:EOLhyphen"/>ward exceedingly; <hi>quaere</hi> of Allom mixed with the gall; for one of theſe ways Mr. <hi>And. Hill</hi> proved excellent. Hereupon I gather, That all off al of Beaſts, and all garbage of fiſh is very good.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:115421:89"/>
+            <head>Books printed or ſold by <hi>William Leak</hi> at the ſign of the Crown in <hi>Fleetſtreet</hi> between the two Temple-gates.</head>
+            <list>
+               <item>A Bible of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fair large<g ref="char:punc">▪</g>
+               </item>
+               <item>Roman <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </item>
+               <item>
+                  <hi>Yorke</hi>'s Heraldry.</item>
+               <item>Man become gu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Joh. Francis Sen<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> &amp; Engliſh<g ref="char:EOLhyphen"/>ed by H E. of <hi>Mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</hi>
+               </item>
+               <item>
+                  <hi>Wilby</hi>'s ſecond Set of Mu<g ref="char:EOLhyphen"/>ſick, 3.4, 5 and 6 parts.</item>
+               <item>The Hiſtory of <hi>Vienna,</hi> and <hi>Paris.</hi>
+               </item>
+               <item>
+                  <hi>Callis</hi> learned Readings on the Stat 21 H. 8. cap. 5. of Sewers.</item>
+               <item>
+                  <hi>Sken' de ſignificatione Ver<g ref="char:EOLhyphen"/>borum.</hi>
+               </item>
+               <item>Poſing of the Accidence.</item>
+               <item>
+                  <hi>Delaman</hi>'s uſe of the Hori<g ref="char:EOLhyphen"/>zontal Quadrant.</item>
+               <item>
+                  <hi>Corderius</hi> in Engliſh.</item>
+               <item>Doctor <hi>Fulkes</hi> Meteors.</item>
+               <item>
+                  <hi>Nye's</hi> Gunnery and Fire<g ref="char:EOLhyphen"/>works.</item>
+               <item>
+                  <hi>Cato Major,</hi> with Annotat.</item>
+               <item>
+                  <hi>Lazerillo de Tormes.</hi>
+               </item>
+               <item>The Ideot in four Books.</item>
+               <item>
+                  <hi>Aula Lucis,</hi> or the houſe light.</item>
+               <item>
+                  <hi>Wilkinſon</hi>'s office of She<g ref="char:EOLhyphen"/>riffs.</item>
+               <item>
+                  <hi>Parſon</hi>'s Law.</item>
+               <item>Mirrour of Juſtice.</item>
+               <item>The Fort-Royal of holy Scripture, or a new Con<g ref="char:EOLhyphen"/>cordance by, <hi>J. H.</hi>
+               </item>
+               <item>Solitary devotions.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ita<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Scholaſtica.</hi>
+               </item>
+               <item>Mathematical Recreations.</item>
+               <item>The ſeveral opinions of ſundry Antiquaries; touch<g ref="char:EOLhyphen"/>ing the power of Parliam.</item>
+               <item>The Right of the people concerning Impoſitio<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtated in a learned Argu<g ref="char:EOLhyphen"/>ment.</item>
+               <item>An exact Abridgment of the Records in the Tower of <hi>London,</hi> by Sir <hi>Rob. Cotton,</hi> Kt.</item>
+               <item>An Apology for the diſci<g ref="char:EOLhyphen"/>pline of the antient Church, intended eſpecially for that of our Mother the Church of <hi>England;</hi> In anſwer to the admonitory Letter, lately publiſhed by <hi>Will. Nicholſon</hi> Arch-deacon of <hi>Brecon,</hi> in 4.</item>
+               <item>The Garden of Eden.</item>
+            </list>
+            <list>
+               <head>PLAYES.</head>
+               <item>The Wedding.</item>
+               <item>The <hi>Hollander.</hi>
+               </item>
+               <item>Maids Tragedy.</item>
+               <item>King and no King.</item>
+               <item>
+                  <hi>Philaſter.</hi>
+               </item>
+               <item>The grateful Servant.</item>
+               <item>The ſtrange Diſcovery.</item>
+               <item>The Merchant of <hi>Venice.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
